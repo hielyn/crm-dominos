@@ -1,0 +1,10 @@
+id,name,partner_id/id,date_order,state,order_line/product_id,order_line/name,order_line/product_uom_qty,order_line/price_unit
+dom_dh0001,DH0001,dom_kh010,2026-06-24 18:34:00,sale,SP024,7Up lon,1,19000
+,,,,,SP010,Pizza Phô Mai Hải Sản,1,199000
+dom_dh0002,DH0002,dom_kh009,2026-07-05 20:58:00,sale,SP015,Khoai Tây Chiên,1,39000
+,,,,,SP018,Xúc Xích Nướng,1,55000
+dom_dh0003,DH0003,dom_kh043,2026-07-07 12:09:00,sale,SP030,Combo Bạn Bè 2 Người,1,289000
+dom_dh0004,DH0004,dom_kh010,2026-07-09 16:54:00,sale,SP016,Bánh Mì Bơ Tỏi,1,45000
+,,,,,SP013,Mì Ý Bò Bằm,1,79000
+dom_dh0005,DH0005,dom_kh052,2026-07-09 18:33:00,sale,SP010,Pizza Phô Mai Hải Sản,1,199000
+,,,,,SP015,Khoai Tây Chiên,1,39000

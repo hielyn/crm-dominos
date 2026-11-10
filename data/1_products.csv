@@ -1,0 +1,33 @@
+id,name,detailed_type,list_price,standard_price,default_code,categ_id/id
+dom_sp001,Pizza Phô Mai Truyền Thống,consu,129000,40500,SP001,dom_cat_01
+dom_sp002,Pizza Pepperoni,consu,149000,53700,SP002,dom_cat_01
+dom_sp003,Pizza Hải Sản Xốt Pesto,consu,189000,68300,SP003,dom_cat_01
+dom_sp004,Pizza Thập Cẩm Thượng Hạng,consu,179000,72200,SP004,dom_cat_01
+dom_sp005,Pizza Bò Xốt BBQ,consu,169000,52800,SP005,dom_cat_01
+dom_sp006,Pizza Gà Nướng Dứa,consu,159000,52000,SP006,dom_cat_01
+dom_sp007,Pizza Xúc Xích Ý,consu,149000,55400,SP007,dom_cat_01
+dom_sp008,Pizza Rau Củ,consu,129000,47300,SP008,dom_cat_01
+dom_sp009,Pizza Tôm Xốt Kem,consu,189000,74500,SP009,dom_cat_01
+dom_sp010,Pizza Phô Mai Hải Sản,consu,199000,72800,SP010,dom_cat_01
+dom_sp011,Pizza Bò Mexico,consu,169000,65500,SP011,dom_cat_01
+dom_sp012,Pizza Giăm Bông Dứa,consu,139000,54500,SP012,dom_cat_01
+dom_sp013,Mì Ý Bò Bằm,consu,79000,30800,SP013,dom_cat_02
+dom_sp014,Mì Ý Hải Sản,consu,89000,33000,SP014,dom_cat_02
+dom_sp015,Khoai Tây Chiên,consu,39000,12800,SP015,dom_cat_02
+dom_sp016,Bánh Mì Bơ Tỏi,consu,45000,16800,SP016,dom_cat_02
+dom_sp017,Salad Caesar,consu,59000,18500,SP017,dom_cat_02
+dom_sp018,Xúc Xích Nướng,consu,55000,21900,SP018,dom_cat_02
+dom_sp019,Cánh Gà Nướng BBQ 6 miếng,consu,89000,31500,SP019,dom_cat_03
+dom_sp020,Gà Viên Chiên Giòn,consu,69000,27400,SP020,dom_cat_03
+dom_sp021,Đùi Gà Rán,consu,79000,30200,SP021,dom_cat_03
+dom_sp022,Cánh Gà Cay 6 miếng,consu,89000,34000,SP022,dom_cat_03
+dom_sp023,Pepsi lon,consu,19000,6200,SP023,dom_cat_04
+dom_sp024,7Up lon,consu,19000,6300,SP024,dom_cat_04
+dom_sp025,Trà Đào,consu,35000,14600,SP025,dom_cat_04
+dom_sp026,Nước suối,consu,12000,4900,SP026,dom_cat_04
+dom_sp027,Bánh Trứng Tart,consu,35000,13900,SP027,dom_cat_05
+dom_sp028,Kem Ly Vani,consu,29000,12200,SP028,dom_cat_05
+dom_sp029,Combo Cá Nhân,consu,119000,43000,SP029,dom_cat_06
+dom_sp030,Combo Bạn Bè 2 Người,consu,289000,89300,SP030,dom_cat_06
+dom_sp031,Combo Gia Đình 4 Người,consu,459000,156400,SP031,dom_cat_06
+dom_sp032,Combo Văn Phòng 6 Người,consu,599000,219800,SP032,dom_cat_06

@@ -1,0 +1,598 @@
+id,name,partner_id/id,date_order,state,order_line/product_id,order_line/name,order_line/product_uom_qty,order_line/price_unit
+dom_dh0006,DH0006,dom_kh025,2026-07-10 18:09:00,sale,SP032,Combo Văn Phòng 6 Người,1,599000
+,,,,,SP025,Trà Đào,1,35000
+,,,,,SP016,Bánh Mì Bơ Tỏi,1,45000
+dom_dh0007,DH0007,dom_kh009,2026-07-12 18:54:00,sale,SP017,Salad Caesar,1,59000
+,,,,,SP019,Cánh Gà Nướng BBQ 6 miếng,1,89000
+dom_dh0008,DH0008,dom_kh037,2026-07-12 15:35:00,sale,SP027,Bánh Trứng Tart,2,35000
+,,,,,SP008,Pizza Rau Củ,1,129000
+dom_dh0009,DH0009,dom_kh041,2026-07-14 12:39:00,sale,SP015,Khoai Tây Chiên,1,39000
+,,,,,SP017,Salad Caesar,2,59000
+dom_dh0010,DH0010,dom_kh058,2026-07-16 13:13:00,sale,SP024,7Up lon,1,19000
+,,,,,SP032,Combo Văn Phòng 6 Người,1,599000
+,,,,,SP012,Pizza Giăm Bông Dứa,1,139000
+dom_dh0011,DH0011,dom_kh001,2026-07-17 13:32:00,sale,SP032,Combo Văn Phòng 6 Người,1,599000
+,,,,,SP019,Cánh Gà Nướng BBQ 6 miếng,1,89000
+,,,,,SP026,Nước suối,1,12000
+dom_dh0012,DH0012,dom_kh045,2026-07-17 19:03:00,sale,SP021,Đùi Gà Rán,1,79000
+dom_dh0013,DH0013,dom_kh047,2026-07-19 20:51:00,sale,SP030,Combo Bạn Bè 2 Người,2,289000
+,,,,,SP031,Combo Gia Đình 4 Người,1,459000
+dom_dh0014,DH0014,dom_kh041,2026-07-24 13:20:00,sale,SP020,Gà Viên Chiên Giòn,1,69000
+dom_dh0015,DH0015,dom_kh047,2026-07-26 14:26:00,sale,SP012,Pizza Giăm Bông Dứa,1,139000
+,,,,,SP001,Pizza Phô Mai Truyền Thống,1,129000
+,,,,,SP020,Gà Viên Chiên Giòn,1,69000
+,,,,,SP016,Bánh Mì Bơ Tỏi,1,45000
+,,,,,SP014,Mì Ý Hải Sản,1,89000
+dom_dh0016,DH0016,dom_kh014,2026-07-27 13:05:00,sale,SP013,Mì Ý Bò Bằm,1,79000
+dom_dh0017,DH0017,dom_kh026,2026-07-29 11:20:00,sale,SP026,Nước suối,1,12000
+,,,,,SP002,Pizza Pepperoni,1,149000
+dom_dh0018,DH0018,dom_kh060,2026-07-29 18:30:00,sale,SP024,7Up lon,1,19000
+,,,,,SP018,Xúc Xích Nướng,1,55000
+,,,,,SP028,Kem Ly Vani,1,29000
+dom_dh0019,DH0019,dom_kh008,2026-07-31 12:26:00,sale,SP032,Combo Văn Phòng 6 Người,1,599000
+,,,,,SP011,Pizza Bò Mexico,1,169000
+,,,,,SP019,Cánh Gà Nướng BBQ 6 miếng,2,89000
+dom_dh0020,DH0020,dom_kh052,2026-07-31 16:33:00,sale,SP019,Cánh Gà Nướng BBQ 6 miếng,1,89000
+dom_dh0021,DH0021,dom_kh005,2026-08-02 17:05:00,sale,SP017,Salad Caesar,1,59000
+,,,,,SP022,Cánh Gà Cay 6 miếng,1,89000
+,,,,,SP026,Nước suối,1,12000
+dom_dh0022,DH0022,dom_kh036,2026-08-02 18:47:00,sale,SP007,Pizza Xúc Xích Ý,1,149000
+,,,,,SP022,Cánh Gà Cay 6 miếng,2,89000
+,,,,,SP031,Combo Gia Đình 4 Người,2,459000
+,,,,,SP016,Bánh Mì Bơ Tỏi,1,45000
+dom_dh0023,DH0023,dom_kh037,2026-08-02 12:21:00,sale,SP027,Bánh Trứng Tart,2,35000
+,,,,,SP030,Combo Bạn Bè 2 Người,1,289000
+,,,,,SP031,Combo Gia Đình 4 Người,2,459000
+,,,,,SP014,Mì Ý Hải Sản,1,89000
+,,,,,SP022,Cánh Gà Cay 6 miếng,1,89000
+dom_dh0024,DH0024,dom_kh059,2026-08-02 12:07:00,sale,SP020,Gà Viên Chiên Giòn,1,69000
+,,,,,SP005,Pizza Bò Xốt BBQ,2,169000
+,,,,,SP028,Kem Ly Vani,2,29000
+,,,,,SP031,Combo Gia Đình 4 Người,1,459000
+dom_dh0025,DH0025,dom_kh025,2026-08-03 12:36:00,sale,SP008,Pizza Rau Củ,1,129000
+dom_dh0026,DH0026,dom_kh045,2026-08-03 19:42:00,sale,SP021,Đùi Gà Rán,1,79000
+dom_dh0027,DH0027,dom_kh009,2026-08-04 17:52:00,sale,SP021,Đùi Gà Rán,1,79000
+dom_dh0028,DH0028,dom_kh026,2026-08-07 13:43:00,sale,SP022,Cánh Gà Cay 6 miếng,1,89000
+dom_dh0029,DH0029,dom_kh005,2026-08-09 21:43:00,sale,SP019,Cánh Gà Nướng BBQ 6 miếng,2,89000
+,,,,,SP003,Pizza Hải Sản Xốt Pesto,1,189000
+dom_dh0030,DH0030,dom_kh036,2026-08-09 13:24:00,sale,SP022,Cánh Gà Cay 6 miếng,1,89000
+,,,,,SP019,Cánh Gà Nướng BBQ 6 miếng,1,89000
+dom_dh0031,DH0031,dom_kh054,2026-08-09 17:37:00,sale,SP022,Cánh Gà Cay 6 miếng,1,89000
+dom_dh0032,DH0032,dom_kh001,2026-08-10 12:59:00,sale,SP005,Pizza Bò Xốt BBQ,1,169000
+dom_dh0033,DH0033,dom_kh035,2026-08-11 20:36:00,sale,SP022,Cánh Gà Cay 6 miếng,1,89000
+,,,,,SP007,Pizza Xúc Xích Ý,1,149000
+dom_dh0034,DH0034,dom_kh028,2026-08-13 16:49:00,sale,SP015,Khoai Tây Chiên,1,39000
+,,,,,SP017,Salad Caesar,1,59000
+dom_dh0035,DH0035,dom_kh045,2026-08-13 19:56:00,sale,SP028,Kem Ly Vani,1,29000
+,,,,,SP027,Bánh Trứng Tart,1,35000
+,,,,,SP026,Nước suối,2,12000
+dom_dh0036,DH0036,dom_kh052,2026-08-13 18:13:00,sale,SP002,Pizza Pepperoni,1,149000
+,,,,,SP019,Cánh Gà Nướng BBQ 6 miếng,1,89000
+dom_dh0037,DH0037,dom_kh008,2026-08-14 11:33:00,sale,SP032,Combo Văn Phòng 6 Người,1,599000
+,,,,,SP011,Pizza Bò Mexico,1,169000
+,,,,,SP019,Cánh Gà Nướng BBQ 6 miếng,2,89000
+dom_dh0038,DH0038,dom_kh012,2026-08-14 19:44:00,sale,SP030,Combo Bạn Bè 2 Người,1,289000
+,,,,,SP019,Cánh Gà Nướng BBQ 6 miếng,2,89000
+dom_dh0039,DH0039,dom_kh046,2026-08-14 11:42:00,sale,SP020,Gà Viên Chiên Giòn,2,69000
+dom_dh0040,DH0040,dom_kh009,2026-08-16 21:20:00,sale,SP007,Pizza Xúc Xích Ý,1,149000
+,,,,,SP020,Gà Viên Chiên Giòn,1,69000
+,,,,,SP023,Pepsi lon,1,19000
+dom_dh0041,DH0041,dom_kh020,2026-08-16 16:59:00,sale,SP030,Combo Bạn Bè 2 Người,1,289000
+,,,,,SP002,Pizza Pepperoni,1,149000
+,,,,,SP010,Pizza Phô Mai Hải Sản,1,199000
+dom_dh0042,DH0042,dom_kh022,2026-08-16 16:05:00,sale,SP017,Salad Caesar,1,59000
+,,,,,SP012,Pizza Giăm Bông Dứa,1,139000
+,,,,,SP019,Cánh Gà Nướng BBQ 6 miếng,1,89000
+dom_dh0043,DH0043,dom_kh037,2026-08-16 12:58:00,sale,SP019,Cánh Gà Nướng BBQ 6 miếng,1,89000
+,,,,,SP017,Salad Caesar,1,59000
+,,,,,SP021,Đùi Gà Rán,1,79000
+,,,,,SP030,Combo Bạn Bè 2 Người,2,289000
+dom_dh0044,DH0044,dom_kh059,2026-08-16 14:58:00,sale,SP007,Pizza Xúc Xích Ý,1,149000
+,,,,,SP024,7Up lon,2,19000
+dom_dh0045,DH0045,dom_kh025,2026-08-17 12:12:00,sale,SP032,Combo Văn Phòng 6 Người,1,599000
+,,,,,SP025,Trà Đào,1,35000
+,,,,,SP016,Bánh Mì Bơ Tỏi,1,45000
+dom_dh0046,DH0046,dom_kh026,2026-08-17 20:52:00,sale,SP026,Nước suối,1,12000
+,,,,,SP002,Pizza Pepperoni,1,149000
+dom_dh0047,DH0047,dom_kh034,2026-08-18 17:02:00,sale,SP022,Cánh Gà Cay 6 miếng,1,89000
+,,,,,SP020,Gà Viên Chiên Giòn,1,69000
+,,,,,SP023,Pepsi lon,1,19000
+dom_dh0048,DH0048,dom_kh041,2026-08-18 13:53:00,sale,SP007,Pizza Xúc Xích Ý,1,149000
+,,,,,SP016,Bánh Mì Bơ Tỏi,2,45000
+,,,,,SP020,Gà Viên Chiên Giòn,2,69000
+dom_dh0049,DH0049,dom_kh014,2026-08-19 18:59:00,sale,SP005,Pizza Bò Xốt BBQ,1,169000
+dom_dh0050,DH0050,dom_kh045,2026-08-20 19:51:00,sale,SP007,Pizza Xúc Xích Ý,1,149000
+,,,,,SP026,Nước suối,1,12000
+dom_dh0051,DH0051,dom_kh032,2026-08-21 13:57:00,sale,SP029,Combo Cá Nhân,1,119000
+dom_dh0052,DH0052,dom_kh060,2026-08-21 17:45:00,sale,SP028,Kem Ly Vani,2,29000
+dom_dh0053,DH0053,dom_kh054,2026-08-22 13:21:00,sale,SP031,Combo Gia Đình 4 Người,2,459000
+,,,,,SP018,Xúc Xích Nướng,1,55000
+,,,,,SP027,Bánh Trứng Tart,1,35000
+,,,,,SP017,Salad Caesar,2,59000
+dom_dh0054,DH0054,dom_kh006,2026-08-23 17:22:00,sale,SP019,Cánh Gà Nướng BBQ 6 miếng,1,89000
+,,,,,SP022,Cánh Gà Cay 6 miếng,1,89000
+dom_dh0055,DH0055,dom_kh048,2026-08-23 19:48:00,sale,SP024,7Up lon,1,19000
+,,,,,SP019,Cánh Gà Nướng BBQ 6 miếng,1,89000
+,,,,,SP031,Combo Gia Đình 4 Người,1,459000
+,,,,,SP030,Combo Bạn Bè 2 Người,1,289000
+dom_dh0056,DH0056,dom_kh056,2026-08-23 11:10:00,sale,SP022,Cánh Gà Cay 6 miếng,2,89000
+,,,,,SP027,Bánh Trứng Tart,1,35000
+,,,,,SP025,Trà Đào,1,35000
+dom_dh0057,DH0057,dom_kh001,2026-08-24 19:10:00,sale,SP032,Combo Văn Phòng 6 Người,1,599000
+,,,,,SP019,Cánh Gà Nướng BBQ 6 miếng,1,89000
+,,,,,SP026,Nước suối,1,12000
+dom_dh0058,DH0058,dom_kh015,2026-08-24 17:57:00,sale,SP017,Salad Caesar,1,59000
+,,,,,SP020,Gà Viên Chiên Giòn,1,69000
+dom_dh0059,DH0059,dom_kh008,2026-08-25 11:56:00,sale,SP022,Cánh Gà Cay 6 miếng,1,89000
+,,,,,SP025,Trà Đào,1,35000
+dom_dh0060,DH0060,dom_kh031,2026-08-25 12:02:00,sale,SP028,Kem Ly Vani,1,29000
+dom_dh0061,DH0061,dom_kh034,2026-08-26 19:11:00,sale,SP017,Salad Caesar,1,59000
+dom_dh0062,DH0062,dom_kh053,2026-08-26 12:43:00,sale,SP017,Salad Caesar,1,59000
+,,,,,SP032,Combo Văn Phòng 6 Người,1,599000
+,,,,,SP004,Pizza Thập Cẩm Thượng Hạng,1,179000
+dom_dh0063,DH0063,dom_kh013,2026-08-28 20:35:00,sale,SP012,Pizza Giăm Bông Dứa,1,139000
+,,,,,SP027,Bánh Trứng Tart,1,35000
+dom_dh0064,DH0064,dom_kh026,2026-08-28 12:40:00,sale,SP026,Nước suối,1,12000
+,,,,,SP002,Pizza Pepperoni,1,149000
+dom_dh0065,DH0065,dom_kh038,2026-08-28 12:17:00,sale,SP009,Pizza Tôm Xốt Kem,1,189000
+dom_dh0066,DH0066,dom_kh041,2026-08-28 12:30:00,sale,SP025,Trà Đào,1,35000
+,,,,,SP030,Combo Bạn Bè 2 Người,2,289000
+,,,,,SP011,Pizza Bò Mexico,2,169000
+dom_dh0067,DH0067,dom_kh017,2026-08-29 14:21:00,sale,SP005,Pizza Bò Xốt BBQ,2,169000
+,,,,,SP028,Kem Ly Vani,2,29000
+,,,,,SP023,Pepsi lon,1,19000
+dom_dh0068,DH0068,dom_kh023,2026-08-29 11:15:00,sale,SP002,Pizza Pepperoni,2,149000
+,,,,,SP031,Combo Gia Đình 4 Người,1,459000
+dom_dh0069,DH0069,dom_kh036,2026-08-29 11:03:00,sale,SP020,Gà Viên Chiên Giòn,1,69000
+,,,,,SP001,Pizza Phô Mai Truyền Thống,2,129000
+,,,,,SP013,Mì Ý Bò Bằm,1,79000
+,,,,,SP016,Bánh Mì Bơ Tỏi,2,45000
+,,,,,SP004,Pizza Thập Cẩm Thượng Hạng,1,179000
+dom_dh0070,DH0070,dom_kh022,2026-08-30 18:20:00,sale,SP017,Salad Caesar,1,59000
+,,,,,SP012,Pizza Giăm Bông Dứa,1,139000
+,,,,,SP019,Cánh Gà Nướng BBQ 6 miếng,1,89000
+dom_dh0071,DH0071,dom_kh055,2026-08-30 14:31:00,sale,SP019,Cánh Gà Nướng BBQ 6 miếng,2,89000
+,,,,,SP030,Combo Bạn Bè 2 Người,1,289000
+dom_dh0072,DH0072,dom_kh059,2026-08-30 20:51:00,sale,SP008,Pizza Rau Củ,1,129000
+,,,,,SP022,Cánh Gà Cay 6 miếng,1,89000
+dom_dh0073,DH0073,dom_kh019,2026-08-31 16:44:00,sale,SP027,Bánh Trứng Tart,1,35000
+,,,,,SP020,Gà Viên Chiên Giòn,1,69000
+,,,,,SP003,Pizza Hải Sản Xốt Pesto,2,189000
+dom_dh0074,DH0074,dom_kh028,2026-08-31 19:38:00,sale,SP021,Đùi Gà Rán,1,79000
+dom_dh0075,DH0075,dom_kh034,2026-08-31 17:11:00,sale,SP018,Xúc Xích Nướng,2,55000
+dom_dh0076,DH0076,dom_kh015,2026-09-01 18:27:00,sale,SP026,Nước suối,1,12000
+,,,,,SP028,Kem Ly Vani,1,29000
+,,,,,SP025,Trà Đào,1,35000
+dom_dh0077,DH0077,dom_kh057,2026-09-01 21:53:00,sale,SP001,Pizza Phô Mai Truyền Thống,1,129000
+dom_dh0078,DH0078,dom_kh012,2026-09-02 18:23:00,sale,SP015,Khoai Tây Chiên,1,39000
+,,,,,SP019,Cánh Gà Nướng BBQ 6 miếng,1,89000
+dom_dh0079,DH0079,dom_kh060,2026-09-03 19:29:00,sale,SP016,Bánh Mì Bơ Tỏi,2,45000
+dom_dh0080,DH0080,dom_kh008,2026-09-04 11:23:00,sale,SP032,Combo Văn Phòng 6 Người,1,599000
+,,,,,SP011,Pizza Bò Mexico,1,169000
+,,,,,SP019,Cánh Gà Nướng BBQ 6 miếng,2,89000
+dom_dh0081,DH0081,dom_kh013,2026-09-04 13:17:00,sale,SP012,Pizza Giăm Bông Dứa,1,139000
+,,,,,SP027,Bánh Trứng Tart,1,35000
+dom_dh0082,DH0082,dom_kh025,2026-09-04 12:55:00,sale,SP004,Pizza Thập Cẩm Thượng Hạng,1,179000
+,,,,,SP029,Combo Cá Nhân,1,119000
+,,,,,SP003,Pizza Hải Sản Xốt Pesto,2,189000
+dom_dh0083,DH0083,dom_kh035,2026-09-04 13:55:00,sale,SP022,Cánh Gà Cay 6 miếng,1,89000
+,,,,,SP007,Pizza Xúc Xích Ý,1,149000
+dom_dh0084,DH0084,dom_kh038,2026-09-04 12:42:00,sale,SP009,Pizza Tôm Xốt Kem,1,189000
+dom_dh0085,DH0085,dom_kh046,2026-09-04 13:08:00,sale,SP004,Pizza Thập Cẩm Thượng Hạng,2,179000
+,,,,,SP019,Cánh Gà Nướng BBQ 6 miếng,1,89000
+,,,,,SP020,Gà Viên Chiên Giòn,1,69000
+dom_dh0086,DH0086,dom_kh052,2026-09-05 19:50:00,sale,SP019,Cánh Gà Nướng BBQ 6 miếng,1,89000
+dom_dh0087,DH0087,dom_kh056,2026-09-05 16:58:00,sale,SP022,Cánh Gà Cay 6 miếng,2,89000
+,,,,,SP012,Pizza Giăm Bông Dứa,1,139000
+dom_dh0088,DH0088,dom_kh006,2026-09-06 14:41:00,sale,SP031,Combo Gia Đình 4 Người,1,459000
+,,,,,SP027,Bánh Trứng Tart,1,35000
+,,,,,SP018,Xúc Xích Nướng,2,55000
+dom_dh0089,DH0089,dom_kh020,2026-09-06 11:49:00,sale,SP017,Salad Caesar,1,59000
+,,,,,SP020,Gà Viên Chiên Giòn,1,69000
+,,,,,SP021,Đùi Gà Rán,2,79000
+,,,,,SP027,Bánh Trứng Tart,1,35000
+,,,,,SP008,Pizza Rau Củ,1,129000
+dom_dh0090,DH0090,dom_kh034,2026-09-06 20:24:00,sale,SP022,Cánh Gà Cay 6 miếng,1,89000
+,,,,,SP027,Bánh Trứng Tart,1,35000
+dom_dh0091,DH0091,dom_kh036,2026-09-06 15:10:00,sale,SP016,Bánh Mì Bơ Tỏi,1,45000
+,,,,,SP023,Pepsi lon,2,19000
+dom_dh0092,DH0092,dom_kh056,2026-09-06 12:34:00,sale,SP028,Kem Ly Vani,1,29000
+,,,,,SP019,Cánh Gà Nướng BBQ 6 miếng,2,89000
+,,,,,SP018,Xúc Xích Nướng,1,55000
+,,,,,SP031,Combo Gia Đình 4 Người,1,459000
+dom_dh0093,DH0093,dom_kh016,2026-09-07 18:59:00,sale,SP020,Gà Viên Chiên Giòn,1,69000
+,,,,,SP026,Nước suối,1,12000
+dom_dh0094,DH0094,dom_kh009,2026-09-09 20:12:00,sale,SP015,Khoai Tây Chiên,1,39000
+,,,,,SP018,Xúc Xích Nướng,1,55000
+dom_dh0095,DH0095,dom_kh019,2026-09-09 16:03:00,sale,SP005,Pizza Bò Xốt BBQ,1,169000
+dom_dh0096,DH0096,dom_kh012,2026-09-10 19:31:00,sale,SP024,7Up lon,2,19000
+dom_dh0097,DH0097,dom_kh015,2026-09-10 21:26:00,sale,SP005,Pizza Bò Xốt BBQ,1,169000
+dom_dh0098,DH0098,dom_kh053,2026-09-10 12:44:00,sale,SP017,Salad Caesar,1,59000
+,,,,,SP032,Combo Văn Phòng 6 Người,1,599000
+,,,,,SP004,Pizza Thập Cẩm Thượng Hạng,1,179000
+dom_dh0099,DH0099,dom_kh013,2026-09-11 12:35:00,sale,SP032,Combo Văn Phòng 6 Người,1,599000
+,,,,,SP025,Trà Đào,1,35000
+,,,,,SP021,Đùi Gà Rán,1,79000
+dom_dh0100,DH0100,dom_kh018,2026-09-11 19:46:00,sale,SP021,Đùi Gà Rán,1,79000
+,,,,,SP025,Trà Đào,1,35000
+,,,,,SP023,Pepsi lon,1,19000
+dom_dh0101,DH0101,dom_kh028,2026-09-12 17:23:00,sale,SP026,Nước suối,1,12000
+,,,,,SP028,Kem Ly Vani,1,29000
+dom_dh0102,DH0102,dom_kh029,2026-09-12 15:36:00,sale,SP028,Kem Ly Vani,2,29000
+,,,,,SP007,Pizza Xúc Xích Ý,1,149000
+,,,,,SP025,Trà Đào,1,35000
+,,,,,SP019,Cánh Gà Nướng BBQ 6 miếng,1,89000
+,,,,,SP015,Khoai Tây Chiên,1,39000
+dom_dh0103,DH0103,dom_kh004,2026-09-13 16:09:00,sale,SP031,Combo Gia Đình 4 Người,1,459000
+,,,,,SP028,Kem Ly Vani,2,29000
+,,,,,SP019,Cánh Gà Nướng BBQ 6 miếng,1,89000
+,,,,,SP016,Bánh Mì Bơ Tỏi,1,45000
+dom_dh0104,DH0104,dom_kh007,2026-09-13 18:05:00,sale,SP027,Bánh Trứng Tart,1,35000
+,,,,,SP031,Combo Gia Đình 4 Người,1,459000
+dom_dh0105,DH0105,dom_kh036,2026-09-13 12:16:00,sale,SP006,Pizza Gà Nướng Dứa,1,159000
+,,,,,SP031,Combo Gia Đình 4 Người,1,459000
+dom_dh0106,DH0106,dom_kh045,2026-09-13 16:35:00,sale,SP023,Pepsi lon,1,19000
+dom_dh0107,DH0107,dom_kh048,2026-09-13 15:18:00,sale,SP021,Đùi Gà Rán,2,79000
+,,,,,SP004,Pizza Thập Cẩm Thượng Hạng,1,179000
+,,,,,SP007,Pizza Xúc Xích Ý,1,149000
+,,,,,SP030,Combo Bạn Bè 2 Người,2,289000
+dom_dh0108,DH0108,dom_kh054,2026-09-13 17:01:00,sale,SP031,Combo Gia Đình 4 Người,2,459000
+,,,,,SP018,Xúc Xích Nướng,1,55000
+,,,,,SP027,Bánh Trứng Tart,1,35000
+,,,,,SP017,Salad Caesar,2,59000
+dom_dh0109,DH0109,dom_kh055,2026-09-13 15:23:00,sale,SP031,Combo Gia Đình 4 Người,1,459000
+,,,,,SP020,Gà Viên Chiên Giòn,1,69000
+dom_dh0110,DH0110,dom_kh056,2026-09-13 12:17:00,sale,SP028,Kem Ly Vani,1,29000
+,,,,,SP019,Cánh Gà Nướng BBQ 6 miếng,2,89000
+,,,,,SP018,Xúc Xích Nướng,1,55000
+,,,,,SP031,Combo Gia Đình 4 Người,1,459000
+dom_dh0111,DH0111,dom_kh059,2026-09-13 15:00:00,sale,SP005,Pizza Bò Xốt BBQ,1,169000
+,,,,,SP023,Pepsi lon,2,19000
+dom_dh0112,DH0112,dom_kh008,2026-09-14 11:18:00,sale,SP032,Combo Văn Phòng 6 Người,1,599000
+,,,,,SP011,Pizza Bò Mexico,1,169000
+,,,,,SP019,Cánh Gà Nướng BBQ 6 miếng,2,89000
+dom_dh0113,DH0113,dom_kh016,2026-09-15 16:17:00,sale,SP026,Nước suối,1,12000
+,,,,,SP007,Pizza Xúc Xích Ý,2,149000
+,,,,,SP008,Pizza Rau Củ,1,129000
+dom_dh0114,DH0114,dom_kh026,2026-09-15 11:47:00,sale,SP026,Nước suối,1,12000
+,,,,,SP002,Pizza Pepperoni,1,149000
+dom_dh0115,DH0115,dom_kh032,2026-09-15 20:54:00,sale,SP025,Trà Đào,1,35000
+dom_dh0116,DH0116,dom_kh034,2026-09-16 16:35:00,sale,SP026,Nước suối,1,12000
+,,,,,SP021,Đùi Gà Rán,1,79000
+dom_dh0117,DH0117,dom_kh041,2026-09-17 11:29:00,sale,SP030,Combo Bạn Bè 2 Người,2,289000
+,,,,,SP025,Trà Đào,1,35000
+dom_dh0118,DH0118,dom_kh057,2026-09-17 20:19:00,sale,SP025,Trà Đào,1,35000
+,,,,,SP001,Pizza Phô Mai Truyền Thống,1,129000
+,,,,,SP021,Đùi Gà Rán,1,79000
+dom_dh0119,DH0119,dom_kh031,2026-09-18 20:57:00,sale,SP021,Đùi Gà Rán,1,79000
+,,,,,SP032,Combo Văn Phòng 6 Người,1,599000
+,,,,,SP009,Pizza Tôm Xốt Kem,2,189000
+dom_dh0120,DH0120,dom_kh046,2026-09-18 13:01:00,sale,SP004,Pizza Thập Cẩm Thượng Hạng,2,179000
+,,,,,SP019,Cánh Gà Nướng BBQ 6 miếng,1,89000
+,,,,,SP020,Gà Viên Chiên Giòn,1,69000
+dom_dh0121,DH0121,dom_kh053,2026-09-18 19:57:00,sale,SP017,Salad Caesar,1,59000
+,,,,,SP032,Combo Văn Phòng 6 Người,1,599000
+,,,,,SP004,Pizza Thập Cẩm Thượng Hạng,1,179000
+dom_dh0122,DH0122,dom_kh017,2026-09-19 20:32:00,sale,SP027,Bánh Trứng Tart,1,35000
+,,,,,SP030,Combo Bạn Bè 2 Người,1,289000
+,,,,,SP031,Combo Gia Đình 4 Người,1,459000
+,,,,,SP019,Cánh Gà Nướng BBQ 6 miếng,1,89000
+dom_dh0123,DH0123,dom_kh019,2026-09-19 16:15:00,sale,SP020,Gà Viên Chiên Giòn,1,69000
+,,,,,SP025,Trà Đào,1,35000
+dom_dh0124,DH0124,dom_kh029,2026-09-19 20:52:00,sale,SP019,Cánh Gà Nướng BBQ 6 miếng,1,89000
+,,,,,SP021,Đùi Gà Rán,2,79000
+,,,,,SP030,Combo Bạn Bè 2 Người,2,289000
+dom_dh0125,DH0125,dom_kh006,2026-09-20 13:36:00,sale,SP031,Combo Gia Đình 4 Người,1,459000
+,,,,,SP016,Bánh Mì Bơ Tỏi,1,45000
+,,,,,SP027,Bánh Trứng Tart,1,35000
+,,,,,SP021,Đùi Gà Rán,2,79000
+dom_dh0126,DH0126,dom_kh015,2026-09-20 16:48:00,sale,SP014,Mì Ý Hải Sản,1,89000
+dom_dh0127,DH0127,dom_kh016,2026-09-20 18:53:00,sale,SP027,Bánh Trứng Tart,1,35000
+dom_dh0128,DH0128,dom_kh018,2026-09-20 16:17:00,sale,SP021,Đùi Gà Rán,1,79000
+dom_dh0129,DH0129,dom_kh022,2026-09-20 13:34:00,sale,SP004,Pizza Thập Cẩm Thượng Hạng,1,179000
+,,,,,SP006,Pizza Gà Nướng Dứa,1,159000
+,,,,,SP020,Gà Viên Chiên Giòn,1,69000
+dom_dh0130,DH0130,dom_kh055,2026-09-20 18:44:00,sale,SP019,Cánh Gà Nướng BBQ 6 miếng,1,89000
+,,,,,SP031,Combo Gia Đình 4 Người,1,459000
+,,,,,SP020,Gà Viên Chiên Giòn,1,69000
+dom_dh0131,DH0131,dom_kh013,2026-09-21 13:14:00,sale,SP015,Khoai Tây Chiên,1,39000
+,,,,,SP024,7Up lon,1,19000
+dom_dh0132,DH0132,dom_kh034,2026-09-22 18:16:00,sale,SP003,Pizza Hải Sản Xốt Pesto,1,189000
+dom_dh0133,DH0133,dom_kh025,2026-09-23 11:41:00,sale,SP032,Combo Văn Phòng 6 Người,1,599000
+,,,,,SP025,Trà Đào,1,35000
+,,,,,SP016,Bánh Mì Bơ Tỏi,1,45000
+dom_dh0134,DH0134,dom_kh013,2026-09-25 19:16:00,sale,SP032,Combo Văn Phòng 6 Người,1,599000
+,,,,,SP012,Pizza Giăm Bông Dứa,1,139000
+dom_dh0135,DH0135,dom_kh044,2026-09-25 11:48:00,sale,SP025,Trà Đào,1,35000
+,,,,,SP016,Bánh Mì Bơ Tỏi,1,45000
+,,,,,SP021,Đùi Gà Rán,2,79000
+dom_dh0136,DH0136,dom_kh007,2026-09-26 14:10:00,sale,SP012,Pizza Giăm Bông Dứa,1,139000
+,,,,,SP030,Combo Bạn Bè 2 Người,1,289000
+dom_dh0137,DH0137,dom_kh016,2026-09-26 17:13:00,sale,SP017,Salad Caesar,1,59000
+,,,,,SP027,Bánh Trứng Tart,1,35000
+dom_dh0138,DH0138,dom_kh019,2026-09-26 17:55:00,sale,SP012,Pizza Giăm Bông Dứa,2,139000
+,,,,,SP020,Gà Viên Chiên Giòn,2,69000
+,,,,,SP018,Xúc Xích Nướng,1,55000
+dom_dh0139,DH0139,dom_kh055,2026-09-26 20:02:00,sale,SP020,Gà Viên Chiên Giòn,1,69000
+,,,,,SP031,Combo Gia Đình 4 Người,1,459000
+dom_dh0140,DH0140,dom_kh060,2026-09-26 18:15:00,sale,SP021,Đùi Gà Rán,1,79000
+,,,,,SP024,7Up lon,1,19000
+dom_dh0141,DH0141,dom_kh004,2026-09-27 20:50:00,sale,SP014,Mì Ý Hải Sản,1,89000
+,,,,,SP019,Cánh Gà Nướng BBQ 6 miếng,1,89000
+,,,,,SP021,Đùi Gà Rán,2,79000
+,,,,,SP030,Combo Bạn Bè 2 Người,1,289000
+,,,,,SP008,Pizza Rau Củ,1,129000
+dom_dh0142,DH0142,dom_kh009,2026-09-27 19:19:00,sale,SP015,Khoai Tây Chiên,1,39000
+,,,,,SP018,Xúc Xích Nướng,1,55000
+dom_dh0143,DH0143,dom_kh012,2026-09-27 18:33:00,sale,SP003,Pizza Hải Sản Xốt Pesto,1,189000
+,,,,,SP020,Gà Viên Chiên Giòn,1,69000
+dom_dh0144,DH0144,dom_kh020,2026-09-27 14:22:00,sale,SP030,Combo Bạn Bè 2 Người,1,289000
+,,,,,SP019,Cánh Gà Nướng BBQ 6 miếng,2,89000
+,,,,,SP013,Mì Ý Bò Bằm,2,79000
+,,,,,SP014,Mì Ý Hải Sản,1,89000
+dom_dh0145,DH0145,dom_kh022,2026-09-27 12:48:00,sale,SP017,Salad Caesar,1,59000
+,,,,,SP012,Pizza Giăm Bông Dứa,1,139000
+,,,,,SP019,Cánh Gà Nướng BBQ 6 miếng,1,89000
+dom_dh0146,DH0146,dom_kh029,2026-09-27 15:39:00,sale,SP023,Pepsi lon,2,19000
+,,,,,SP030,Combo Bạn Bè 2 Người,1,289000
+,,,,,SP020,Gà Viên Chiên Giòn,1,69000
+,,,,,SP002,Pizza Pepperoni,1,149000
+dom_dh0147,DH0147,dom_kh048,2026-09-27 15:16:00,sale,SP028,Kem Ly Vani,1,29000
+,,,,,SP005,Pizza Bò Xốt BBQ,1,169000
+,,,,,SP001,Pizza Phô Mai Truyền Thống,2,129000
+,,,,,SP021,Đùi Gà Rán,1,79000
+dom_dh0148,DH0148,dom_kh056,2026-09-27 16:40:00,sale,SP028,Kem Ly Vani,1,29000
+,,,,,SP019,Cánh Gà Nướng BBQ 6 miếng,2,89000
+,,,,,SP018,Xúc Xích Nướng,1,55000
+,,,,,SP031,Combo Gia Đình 4 Người,1,459000
+dom_dh0149,DH0149,dom_kh059,2026-09-27 12:47:00,sale,SP001,Pizza Phô Mai Truyền Thống,1,129000
+,,,,,SP030,Combo Bạn Bè 2 Người,2,289000
+,,,,,SP002,Pizza Pepperoni,1,149000
+,,,,,SP027,Bánh Trứng Tart,1,35000
+,,,,,SP004,Pizza Thập Cẩm Thượng Hạng,1,179000
+dom_dh0150,DH0150,dom_kh018,2026-09-28 17:45:00,sale,SP029,Combo Cá Nhân,1,119000
+dom_dh0151,DH0151,dom_kh035,2026-09-29 12:10:00,sale,SP022,Cánh Gà Cay 6 miếng,2,89000
+,,,,,SP021,Đùi Gà Rán,1,79000
+,,,,,SP027,Bánh Trứng Tart,1,35000
+dom_dh0152,DH0152,dom_kh015,2026-09-30 20:16:00,sale,SP016,Bánh Mì Bơ Tỏi,1,45000
+,,,,,SP023,Pepsi lon,1,19000
+dom_dh0153,DH0153,dom_kh052,2026-09-30 19:22:00,sale,SP019,Cánh Gà Nướng BBQ 6 miếng,1,89000
+dom_dh0154,DH0154,dom_kh013,2026-10-01 20:25:00,sale,SP012,Pizza Giăm Bông Dứa,1,139000
+,,,,,SP027,Bánh Trứng Tart,1,35000
+dom_dh0155,DH0155,dom_kh016,2026-10-01 16:01:00,sale,SP024,7Up lon,1,19000
+,,,,,SP018,Xúc Xích Nướng,1,55000
+dom_dh0156,DH0156,dom_kh034,2026-10-01 17:22:00,sale,SP017,Salad Caesar,1,59000
+dom_dh0157,DH0157,dom_kh046,2026-10-01 19:46:00,sale,SP009,Pizza Tôm Xốt Kem,1,189000
+,,,,,SP021,Đùi Gà Rán,2,79000
+,,,,,SP015,Khoai Tây Chiên,1,39000
+dom_dh0158,DH0158,dom_kh028,2026-10-03 18:37:00,sale,SP016,Bánh Mì Bơ Tỏi,1,45000
+,,,,,SP020,Gà Viên Chiên Giòn,2,69000
+dom_dh0159,DH0159,dom_kh055,2026-10-03 14:24:00,sale,SP031,Combo Gia Đình 4 Người,2,459000
+,,,,,SP023,Pepsi lon,2,19000
+,,,,,SP002,Pizza Pepperoni,1,149000
+dom_dh0160,DH0160,dom_kh020,2026-10-04 17:26:00,sale,SP020,Gà Viên Chiên Giòn,2,69000
+,,,,,SP028,Kem Ly Vani,1,29000
+,,,,,SP030,Combo Bạn Bè 2 Người,2,289000
+dom_dh0161,DH0161,dom_kh029,2026-10-04 20:11:00,sale,SP014,Mì Ý Hải Sản,2,89000
+,,,,,SP027,Bánh Trứng Tart,1,35000
+dom_dh0162,DH0162,dom_kh036,2026-10-04 18:30:00,sale,SP022,Cánh Gà Cay 6 miếng,1,89000
+,,,,,SP006,Pizza Gà Nướng Dứa,2,159000
+dom_dh0163,DH0163,dom_kh054,2026-10-04 19:54:00,sale,SP025,Trà Đào,1,35000
+,,,,,SP030,Combo Bạn Bè 2 Người,2,289000
+,,,,,SP003,Pizza Hải Sản Xốt Pesto,2,189000
+dom_dh0164,DH0164,dom_kh056,2026-10-04 16:18:00,sale,SP009,Pizza Tôm Xốt Kem,1,189000
+,,,,,SP020,Gà Viên Chiên Giòn,2,69000
+,,,,,SP031,Combo Gia Đình 4 Người,2,459000
+,,,,,SP027,Bánh Trứng Tart,1,35000
+dom_dh0165,DH0165,dom_kh018,2026-10-05 16:35:00,sale,SP020,Gà Viên Chiên Giòn,1,69000
+,,,,,SP019,Cánh Gà Nướng BBQ 6 miếng,1,89000
+dom_dh0166,DH0166,dom_kh057,2026-10-05 20:52:00,sale,SP024,7Up lon,1,19000
+,,,,,SP025,Trà Đào,1,35000
+dom_dh0167,DH0167,dom_kh060,2026-10-05 20:45:00,sale,SP007,Pizza Xúc Xích Ý,2,149000
+,,,,,SP030,Combo Bạn Bè 2 Người,1,289000
+,,,,,SP026,Nước suối,1,12000
+dom_dh0168,DH0168,dom_kh019,2026-10-06 18:23:00,sale,SP005,Pizza Bò Xốt BBQ,1,169000
+,,,,,SP019,Cánh Gà Nướng BBQ 6 miếng,2,89000
+dom_dh0169,DH0169,dom_kh016,2026-10-08 20:08:00,sale,SP010,Pizza Phô Mai Hải Sản,2,199000
+,,,,,SP030,Combo Bạn Bè 2 Người,2,289000
+dom_dh0170,DH0170,dom_kh053,2026-10-08 12:07:00,sale,SP004,Pizza Thập Cẩm Thượng Hạng,1,179000
+dom_dh0171,DH0171,dom_kh013,2026-10-09 19:11:00,sale,SP017,Salad Caesar,1,59000
+,,,,,SP025,Trà Đào,1,35000
+dom_dh0172,DH0172,dom_kh044,2026-10-09 12:55:00,sale,SP025,Trà Đào,1,35000
+,,,,,SP016,Bánh Mì Bơ Tỏi,1,45000
+,,,,,SP021,Đùi Gà Rán,2,79000
+dom_dh0173,DH0173,dom_kh015,2026-10-10 17:53:00,sale,SP016,Bánh Mì Bơ Tỏi,1,45000
+,,,,,SP023,Pepsi lon,1,19000
+dom_dh0174,DH0174,dom_kh034,2026-10-10 21:09:00,sale,SP027,Bánh Trứng Tart,1,35000
+dom_dh0175,DH0175,dom_kh004,2026-10-11 13:47:00,sale,SP023,Pepsi lon,1,19000
+,,,,,SP021,Đùi Gà Rán,1,79000
+,,,,,SP013,Mì Ý Bò Bằm,2,79000
+,,,,,SP030,Combo Bạn Bè 2 Người,1,289000
+,,,,,SP022,Cánh Gà Cay 6 miếng,1,89000
+dom_dh0176,DH0176,dom_kh022,2026-10-11 17:33:00,sale,SP030,Combo Bạn Bè 2 Người,1,289000
+,,,,,SP023,Pepsi lon,2,19000
+dom_dh0177,DH0177,dom_kh029,2026-10-11 14:46:00,sale,SP023,Pepsi lon,1,19000
+,,,,,SP027,Bánh Trứng Tart,2,35000
+,,,,,SP021,Đùi Gà Rán,1,79000
+,,,,,SP012,Pizza Giăm Bông Dứa,1,139000
+dom_dh0178,DH0178,dom_kh050,2026-10-11 18:18:00,sale,SP027,Bánh Trứng Tart,1,35000
+,,,,,SP013,Mì Ý Bò Bằm,2,79000
+,,,,,SP028,Kem Ly Vani,1,29000
+,,,,,SP031,Combo Gia Đình 4 Người,1,459000
+,,,,,SP023,Pepsi lon,1,19000
+dom_dh0179,DH0179,dom_kh055,2026-10-11 13:18:00,sale,SP017,Salad Caesar,2,59000
+,,,,,SP002,Pizza Pepperoni,1,149000
+,,,,,SP013,Mì Ý Bò Bằm,1,79000
+dom_dh0180,DH0180,dom_kh056,2026-10-11 14:12:00,sale,SP010,Pizza Phô Mai Hải Sản,1,199000
+,,,,,SP001,Pizza Phô Mai Truyền Thống,1,129000
+,,,,,SP028,Kem Ly Vani,1,29000
+dom_dh0181,DH0181,dom_kh019,2026-10-12 18:47:00,sale,SP030,Combo Bạn Bè 2 Người,1,289000
+,,,,,SP019,Cánh Gà Nướng BBQ 6 miếng,1,89000
+dom_dh0182,DH0182,dom_kh031,2026-10-12 12:52:00,sale,SP014,Mì Ý Hải Sản,1,89000
+dom_dh0183,DH0183,dom_kh025,2026-10-13 12:27:00,sale,SP032,Combo Văn Phòng 6 Người,1,599000
+,,,,,SP030,Combo Bạn Bè 2 Người,2,289000
+dom_dh0184,DH0184,dom_kh046,2026-10-13 12:22:00,sale,SP004,Pizza Thập Cẩm Thượng Hạng,2,179000
+,,,,,SP019,Cánh Gà Nướng BBQ 6 miếng,1,89000
+,,,,,SP020,Gà Viên Chiên Giòn,1,69000
+dom_dh0185,DH0185,dom_kh002,2026-10-14 20:58:00,sale,SP014,Mì Ý Hải Sản,2,89000
+,,,,,SP029,Combo Cá Nhân,1,119000
+dom_dh0186,DH0186,dom_kh034,2026-10-14 20:31:00,sale,SP026,Nước suối,1,12000
+,,,,,SP024,7Up lon,1,19000
+dom_dh0187,DH0187,dom_kh013,2026-10-15 11:19:00,sale,SP013,Mì Ý Bò Bằm,2,79000
+dom_dh0188,DH0188,dom_kh015,2026-10-15 21:42:00,sale,SP016,Bánh Mì Bơ Tỏi,1,45000
+,,,,,SP023,Pepsi lon,1,19000
+dom_dh0189,DH0189,dom_kh009,2026-10-17 20:13:00,sale,SP001,Pizza Phô Mai Truyền Thống,1,129000
+,,,,,SP015,Khoai Tây Chiên,1,39000
+,,,,,SP028,Kem Ly Vani,1,29000
+dom_dh0190,DH0190,dom_kh016,2026-10-17 18:35:00,sale,SP025,Trà Đào,1,35000
+dom_dh0191,DH0191,dom_kh054,2026-10-17 13:50:00,sale,SP022,Cánh Gà Cay 6 miếng,2,89000
+,,,,,SP025,Trà Đào,2,35000
+,,,,,SP016,Bánh Mì Bơ Tỏi,1,45000
+dom_dh0192,DH0192,dom_kh006,2026-10-18 18:28:00,sale,SP014,Mì Ý Hải Sản,1,89000
+,,,,,SP025,Trà Đào,1,35000
+,,,,,SP030,Combo Bạn Bè 2 Người,1,289000
+,,,,,SP028,Kem Ly Vani,1,29000
+dom_dh0193,DH0193,dom_kh007,2026-10-18 20:56:00,sale,SP002,Pizza Pepperoni,1,149000
+,,,,,SP028,Kem Ly Vani,1,29000
+,,,,,SP008,Pizza Rau Củ,1,129000
+,,,,,SP027,Bánh Trứng Tart,1,35000
+dom_dh0194,DH0194,dom_kh019,2026-10-18 21:52:00,sale,SP026,Nước suối,1,12000
+,,,,,SP020,Gà Viên Chiên Giòn,1,69000
+,,,,,SP028,Kem Ly Vani,1,29000
+dom_dh0195,DH0195,dom_kh022,2026-10-18 16:56:00,sale,SP017,Salad Caesar,1,59000
+,,,,,SP012,Pizza Giăm Bông Dứa,1,139000
+,,,,,SP019,Cánh Gà Nướng BBQ 6 miếng,1,89000
+dom_dh0196,DH0196,dom_kh029,2026-10-18 14:07:00,sale,SP028,Kem Ly Vani,2,29000
+,,,,,SP007,Pizza Xúc Xích Ý,1,149000
+,,,,,SP025,Trà Đào,1,35000
+,,,,,SP019,Cánh Gà Nướng BBQ 6 miếng,1,89000
+,,,,,SP015,Khoai Tây Chiên,1,39000
+dom_dh0197,DH0197,dom_kh055,2026-10-18 16:21:00,sale,SP028,Kem Ly Vani,1,29000
+,,,,,SP031,Combo Gia Đình 4 Người,2,459000
+dom_dh0198,DH0198,dom_kh059,2026-10-18 17:21:00,sale,SP003,Pizza Hải Sản Xốt Pesto,1,189000
+,,,,,SP031,Combo Gia Đình 4 Người,1,459000
+dom_dh0199,DH0199,dom_kh015,2026-10-20 20:28:00,sale,SP024,7Up lon,1,19000
+,,,,,SP010,Pizza Phô Mai Hải Sản,1,199000
+dom_dh0200,DH0200,dom_kh024,2026-10-20 21:46:00,sale,SP027,Bánh Trứng Tart,1,35000
+,,,,,SP013,Mì Ý Bò Bằm,1,79000
+dom_dh0201,DH0201,dom_kh034,2026-10-21 19:30:00,sale,SP017,Salad Caesar,1,59000
+dom_dh0202,DH0202,dom_kh040,2026-10-21 20:30:00,sale,SP017,Salad Caesar,1,59000
+,,,,,SP028,Kem Ly Vani,1,29000
+dom_dh0203,DH0203,dom_kh003,2026-10-22 16:49:00,sale,SP023,Pepsi lon,1,19000
+,,,,,SP021,Đùi Gà Rán,1,79000
+,,,,,SP008,Pizza Rau Củ,1,129000
+dom_dh0204,DH0204,dom_kh016,2026-10-22 16:23:00,sale,SP026,Nước suối,1,12000
+,,,,,SP007,Pizza Xúc Xích Ý,2,149000
+,,,,,SP008,Pizza Rau Củ,1,129000
+dom_dh0205,DH0205,dom_kh013,2026-10-23 11:24:00,sale,SP022,Cánh Gà Cay 6 miếng,1,89000
+dom_dh0206,DH0206,dom_kh057,2026-10-23 19:03:00,sale,SP011,Pizza Bò Mexico,1,169000
+,,,,,SP002,Pizza Pepperoni,1,149000
+,,,,,SP003,Pizza Hải Sản Xốt Pesto,2,189000
+dom_dh0207,DH0207,dom_kh030,2026-10-24 17:59:00,sale,SP030,Combo Bạn Bè 2 Người,1,289000
+,,,,,SP009,Pizza Tôm Xốt Kem,2,189000
+,,,,,SP020,Gà Viên Chiên Giòn,2,69000
+,,,,,SP031,Combo Gia Đình 4 Người,1,459000
+,,,,,SP024,7Up lon,1,19000
+dom_dh0208,DH0208,dom_kh036,2026-10-24 15:57:00,sale,SP031,Combo Gia Đình 4 Người,1,459000
+,,,,,SP025,Trà Đào,2,35000
+dom_dh0209,DH0209,dom_kh048,2026-10-24 14:19:00,sale,SP022,Cánh Gà Cay 6 miếng,1,89000
+,,,,,SP031,Combo Gia Đình 4 Người,2,459000
+,,,,,SP007,Pizza Xúc Xích Ý,1,149000
+,,,,,SP021,Đùi Gà Rán,1,79000
+,,,,,SP028,Kem Ly Vani,1,29000
+dom_dh0210,DH0210,dom_kh050,2026-10-24 14:47:00,sale,SP030,Combo Bạn Bè 2 Người,2,289000
+,,,,,SP019,Cánh Gà Nướng BBQ 6 miếng,2,89000
+,,,,,SP006,Pizza Gà Nướng Dứa,1,159000
+,,,,,SP021,Đùi Gà Rán,1,79000
+,,,,,SP003,Pizza Hải Sản Xốt Pesto,2,189000
+dom_dh0211,DH0211,dom_kh051,2026-10-24 19:26:00,sale,SP020,Gà Viên Chiên Giòn,1,69000
+,,,,,SP007,Pizza Xúc Xích Ý,1,149000
+,,,,,SP019,Cánh Gà Nướng BBQ 6 miếng,1,89000
+dom_dh0212,DH0212,dom_kh056,2026-10-24 16:13:00,sale,SP026,Nước suối,1,12000
+,,,,,SP031,Combo Gia Đình 4 Người,1,459000
+dom_dh0213,DH0213,dom_kh027,2026-10-25 13:30:00,sale,SP014,Mì Ý Hải Sản,1,89000
+,,,,,SP010,Pizza Phô Mai Hải Sản,2,199000
+dom_dh0214,DH0214,dom_kh029,2026-10-25 16:05:00,sale,SP024,7Up lon,1,19000
+,,,,,SP021,Đùi Gà Rán,1,79000
+dom_dh0215,DH0215,dom_kh055,2026-10-25 11:04:00,sale,SP015,Khoai Tây Chiên,1,39000
+,,,,,SP020,Gà Viên Chiên Giòn,1,69000
+dom_dh0216,DH0216,dom_kh019,2026-10-26 16:54:00,sale,SP026,Nước suối,1,12000
+dom_dh0217,DH0217,dom_kh016,2026-10-27 21:22:00,sale,SP026,Nước suối,1,12000
+,,,,,SP007,Pizza Xúc Xích Ý,2,149000
+,,,,,SP008,Pizza Rau Củ,1,129000
+dom_dh0218,DH0218,dom_kh028,2026-10-28 17:34:00,sale,SP016,Bánh Mì Bơ Tỏi,1,45000
+,,,,,SP020,Gà Viên Chiên Giòn,2,69000
+dom_dh0219,DH0219,dom_kh031,2026-10-28 11:23:00,sale,SP014,Mì Ý Hải Sản,1,89000
+dom_dh0220,DH0220,dom_kh015,2026-10-29 21:46:00,sale,SP016,Bánh Mì Bơ Tỏi,1,45000
+,,,,,SP023,Pepsi lon,1,19000
+dom_dh0221,DH0221,dom_kh021,2026-10-29 20:17:00,sale,SP023,Pepsi lon,1,19000
+dom_dh0222,DH0222,dom_kh011,2026-10-30 12:36:00,sale,SP015,Khoai Tây Chiên,1,39000
+,,,,,SP022,Cánh Gà Cay 6 miếng,1,89000
+dom_dh0223,DH0223,dom_kh013,2026-10-30 11:05:00,sale,SP012,Pizza Giăm Bông Dứa,1,139000
+,,,,,SP027,Bánh Trứng Tart,1,35000
+dom_dh0224,DH0224,dom_kh034,2026-10-30 17:54:00,sale,SP020,Gà Viên Chiên Giòn,1,69000
+,,,,,SP026,Nước suối,1,12000
+dom_dh0225,DH0225,dom_kh060,2026-10-30 20:40:00,sale,SP028,Kem Ly Vani,1,29000
+dom_dh0226,DH0226,dom_kh004,2026-10-31 11:21:00,sale,SP010,Pizza Phô Mai Hải Sản,2,199000
+,,,,,SP031,Combo Gia Đình 4 Người,1,459000
+,,,,,SP027,Bánh Trứng Tart,1,35000
+,,,,,SP013,Mì Ý Bò Bằm,1,79000
+dom_dh0227,DH0227,dom_kh020,2026-10-31 18:06:00,sale,SP030,Combo Bạn Bè 2 Người,1,289000
+,,,,,SP002,Pizza Pepperoni,1,149000
+,,,,,SP010,Pizza Phô Mai Hải Sản,1,199000
+dom_dh0228,DH0228,dom_kh022,2026-10-31 16:19:00,sale,SP024,7Up lon,1,19000
+,,,,,SP022,Cánh Gà Cay 6 miếng,1,89000
+dom_dh0229,DH0229,dom_kh040,2026-10-31 17:08:00,sale,SP007,Pizza Xúc Xích Ý,1,149000
+dom_dh0230,DH0230,dom_kh007,2026-11-01 20:49:00,sale,SP026,Nước suối,2,12000
+,,,,,SP030,Combo Bạn Bè 2 Người,1,289000
+dom_dh0231,DH0231,dom_kh024,2026-11-01 20:31:00,sale,SP008,Pizza Rau Củ,2,129000
+,,,,,SP013,Mì Ý Bò Bằm,1,79000
+dom_dh0232,DH0232,dom_kh029,2026-11-01 20:42:00,sale,SP028,Kem Ly Vani,2,29000
+,,,,,SP007,Pizza Xúc Xích Ý,1,149000
+,,,,,SP025,Trà Đào,1,35000
+,,,,,SP019,Cánh Gà Nướng BBQ 6 miếng,1,89000
+,,,,,SP015,Khoai Tây Chiên,1,39000
+dom_dh0233,DH0233,dom_kh039,2026-11-01 14:46:00,sale,SP010,Pizza Phô Mai Hải Sản,1,199000
+,,,,,SP030,Combo Bạn Bè 2 Người,2,289000
+dom_dh0234,DH0234,dom_kh055,2026-11-01 13:20:00,sale,SP031,Combo Gia Đình 4 Người,1,459000
+,,,,,SP013,Mì Ý Bò Bằm,1,79000
+,,,,,SP030,Combo Bạn Bè 2 Người,1,289000
+,,,,,SP022,Cánh Gà Cay 6 miếng,1,89000
+,,,,,SP028,Kem Ly Vani,1,29000
+dom_dh0235,DH0235,dom_kh056,2026-11-01 11:11:00,sale,SP006,Pizza Gà Nướng Dứa,1,159000
+,,,,,SP018,Xúc Xích Nướng,1,55000
+,,,,,SP028,Kem Ly Vani,1,29000
+,,,,,SP025,Trà Đào,1,35000
+,,,,,SP020,Gà Viên Chiên Giòn,1,69000
+dom_dh0236,DH0236,dom_kh059,2026-11-01 11:58:00,sale,SP007,Pizza Xúc Xích Ý,1,149000
+,,,,,SP024,7Up lon,2,19000
+dom_dh0237,DH0237,dom_kh049,2026-11-02 12:29:00,sale,SP023,Pepsi lon,1,19000
+,,,,,SP010,Pizza Phô Mai Hải Sản,1,199000
+,,,,,SP030,Combo Bạn Bè 2 Người,1,289000
+dom_dh0238,DH0238,dom_kh051,2026-11-02 20:18:00,sale,SP022,Cánh Gà Cay 6 miếng,1,89000
+,,,,,SP009,Pizza Tôm Xốt Kem,1,189000
+dom_dh0239,DH0239,dom_kh002,2026-11-04 21:48:00,sale,SP012,Pizza Giăm Bông Dứa,1,139000
+,,,,,SP026,Nước suối,1,12000
+dom_dh0240,DH0240,dom_kh019,2026-11-05 17:57:00,sale,SP028,Kem Ly Vani,1,29000
+,,,,,SP024,7Up lon,2,19000
+dom_dh0241,DH0241,dom_kh025,2026-11-05 12:22:00,sale,SP015,Khoai Tây Chiên,1,39000
+,,,,,SP022,Cánh Gà Cay 6 miếng,1,89000
+,,,,,SP020,Gà Viên Chiên Giòn,1,69000
+dom_dh0242,DH0242,dom_kh033,2026-11-05 12:33:00,sale,SP023,Pepsi lon,1,19000
+,,,,,SP028,Kem Ly Vani,1,29000
+dom_dh0243,DH0243,dom_kh013,2026-11-06 12:23:00,sale,SP012,Pizza Giăm Bông Dứa,1,139000
+,,,,,SP027,Bánh Trứng Tart,1,35000
+dom_dh0244,DH0244,dom_kh042,2026-11-06 17:09:00,sale,SP009,Pizza Tôm Xốt Kem,1,189000
+,,,,,SP023,Pepsi lon,1,19000
+,,,,,SP016,Bánh Mì Bơ Tỏi,2,45000
+dom_dh0245,DH0245,dom_kh021,2026-11-07 18:37:00,sale,SP030,Combo Bạn Bè 2 Người,2,289000
+,,,,,SP018,Xúc Xích Nướng,1,55000
+,,,,,SP024,7Up lon,1,19000
+dom_dh0246,DH0246,dom_kh055,2026-11-07 14:11:00,sale,SP013,Mì Ý Bò Bằm,2,79000
+,,,,,SP024,7Up lon,2,19000
+dom_dh0247,DH0247,dom_kh029,2026-11-08 15:40:00,sale,SP028,Kem Ly Vani,2,29000
+,,,,,SP022,Cánh Gà Cay 6 miếng,1,89000
+,,,,,SP019,Cánh Gà Nướng BBQ 6 miếng,1,89000
+,,,,,SP006,Pizza Gà Nướng Dứa,1,159000
+dom_dh0248,DH0248,dom_kh056,2026-11-08 14:31:00,sale,SP031,Combo Gia Đình 4 Người,1,459000
+,,,,,SP017,Salad Caesar,1,59000
