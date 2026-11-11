@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bpmn:definitions xmlns:bpmn="http://www.omg.org/spec/BPMN/20100524/MODEL" xmlns:bpmndi="http://www.omg.org/spec/BPMN/20100524/DI" xmlns:dc="http://www.omg.org/spec/DD/20100524/DC" xmlns:di="http://www.omg.org/spec/DD/20100524/DI" id="Definitions_Mau" targetNamespace="http://bpmn.io/schema/bpmn">
+  <bpmn:collaboration id="Collaboration_Mau">
+    <bpmn:participant id="Participant_Mau" name="QT-XX Tên quy trình" processRef="Process_Mau" />
+  </bpmn:collaboration>
+  <bpmn:process id="Process_Mau" isExecutable="false">
+    <bpmn:laneSet id="LaneSet_Mau">
+      <bpmn:lane id="Lane_KhachHang" name="Khách hàng">
+        <bpmn:flowNodeRef>Event_Start</bpmn:flowNodeRef>
+      </bpmn:lane>
+      <bpmn:lane id="Lane_NhanVien" name="Nhân viên (CSKH/CHT/TN)">
+        <bpmn:flowNodeRef>Task_XX_S01</bpmn:flowNodeRef>
+      </bpmn:lane>
+      <bpmn:lane id="Lane_Odoo" name="Hệ thống Odoo">
+        <bpmn:flowNodeRef>Gateway_XX_S02</bpmn:flowNodeRef>
+        <bpmn:flowNodeRef>Task_XX_S03</bpmn:flowNodeRef>
+        <bpmn:flowNodeRef>Event_Timer_SLA</bpmn:flowNodeRef>
+        <bpmn:flowNodeRef>Event_End_KhongDat</bpmn:flowNodeRef>
+      </bpmn:lane>
+      <bpmn:lane id="Lane_HeThongNgoai" name="Hệ thống ngoài (Woo/POS/Mail)">
+        <bpmn:flowNodeRef>Task_XX_S04</bpmn:flowNodeRef>
+        <bpmn:flowNodeRef>Event_End_Dat</bpmn:flowNodeRef>
+      </bpmn:lane>
+    </bpmn:laneSet>
+    <bpmn:startEvent id="Event_Start" name="Điều kiện kích hoạt">
+      <bpmn:outgoing>Flow_1</bpmn:outgoing>
+    </bpmn:startEvent>
+    <bpmn:userTask id="Task_XX_S01" name="XX-S01 Động từ + đối tượng">
+      <bpmn:incoming>Flow_1</bpmn:incoming>
+      <bpmn:outgoing>Flow_2</bpmn:outgoing>
+    </bpmn:userTask>
+    <bpmn:exclusiveGateway id="Gateway_XX_S02" name="XX-S02 Điều kiện đúng?">
+      <bpmn:incoming>Flow_2</bpmn:incoming>
+      <bpmn:outgoing>Flow_Co</bpmn:outgoing>
+      <bpmn:outgoing>Flow_Khong</bpmn:outgoing>
+    </bpmn:exclusiveGateway>
+    <bpmn:serviceTask id="Task_XX_S03" name="XX-S03 Hệ thống tự xử lý">
+      <bpmn:incoming>Flow_Co</bpmn:incoming>
+      <bpmn:outgoing>Flow_4</bpmn:outgoing>
+    </bpmn:serviceTask>
+    <bpmn:intermediateCatchEvent id="Event_Timer_SLA" name="Chờ hạn SLA (15 phút)">
+      <bpmn:incoming>Flow_4</bpmn:incoming>
+      <bpmn:outgoing>Flow_5</bpmn:outgoing>
+      <bpmn:timerEventDefinition id="TimerDef_1" />
+    </bpmn:intermediateCatchEvent>
+    <bpmn:endEvent id="Event_End_KhongDat" name="Kết thúc: ngoại lệ XX-EX1">
+      <bpmn:incoming>Flow_Khong</bpmn:incoming>
+    </bpmn:endEvent>
+    <bpmn:serviceTask id="Task_XX_S04" name="XX-S04 Gửi email thông báo">
+      <bpmn:incoming>Flow_5</bpmn:incoming>
+      <bpmn:outgoing>Flow_6</bpmn:outgoing>
+    </bpmn:serviceTask>
+    <bpmn:endEvent id="Event_End_Dat" name="Kết thúc: hoàn tất">
+      <bpmn:incoming>Flow_6</bpmn:incoming>
+    </bpmn:endEvent>
+    <bpmn:sequenceFlow id="Flow_1" sourceRef="Event_Start" targetRef="Task_XX_S01" />
+    <bpmn:sequenceFlow id="Flow_2" sourceRef="Task_XX_S01" targetRef="Gateway_XX_S02" />
+    <bpmn:sequenceFlow id="Flow_Co" name="Có" sourceRef="Gateway_XX_S02" targetRef="Task_XX_S03" />
+    <bpmn:sequenceFlow id="Flow_Khong" name="Không" sourceRef="Gateway_XX_S02" targetRef="Event_End_KhongDat" />
+    <bpmn:sequenceFlow id="Flow_4" sourceRef="Task_XX_S03" targetRef="Event_Timer_SLA" />
+    <bpmn:sequenceFlow id="Flow_5" sourceRef="Event_Timer_SLA" targetRef="Task_XX_S04" />
+    <bpmn:sequenceFlow id="Flow_6" sourceRef="Task_XX_S04" targetRef="Event_End_Dat" />
+  </bpmn:process>
+  <bpmndi:BPMNDiagram id="BPMNDiagram_Mau">
+    <bpmndi:BPMNPlane id="BPMNPlane_Mau" bpmnElement="Collaboration_Mau">
+      <bpmndi:BPMNShape id="Participant_Mau_di" bpmnElement="Participant_Mau" isHorizontal="true"><dc:Bounds x="160" y="80" width="1160" height="640" /></bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Lane_KhachHang_di" bpmnElement="Lane_KhachHang" isHorizontal="true"><dc:Bounds x="190" y="80" width="1130" height="160" /></bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Lane_NhanVien_di" bpmnElement="Lane_NhanVien" isHorizontal="true"><dc:Bounds x="190" y="240" width="1130" height="160" /></bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Lane_Odoo_di" bpmnElement="Lane_Odoo" isHorizontal="true"><dc:Bounds x="190" y="400" width="1130" height="160" /></bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Lane_HeThongNgoai_di" bpmnElement="Lane_HeThongNgoai" isHorizontal="true"><dc:Bounds x="190" y="560" width="1130" height="160" /></bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Event_Start_di" bpmnElement="Event_Start">
+        <dc:Bounds x="262" y="142" width="36" height="36" />
+        <bpmndi:BPMNLabel><dc:Bounds x="235" y="184" width="90" height="27" /></bpmndi:BPMNLabel>
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Task_XX_S01_di" bpmnElement="Task_XX_S01">
+        <dc:Bounds x="330" y="270" width="160" height="100" />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Gateway_XX_S02_di" bpmnElement="Gateway_XX_S02" isMarkerVisible="true">
+        <dc:Bounds x="560" y="435" width="50" height="50" />
+        <bpmndi:BPMNLabel><dc:Bounds x="470" y="440" width="80" height="40" /></bpmndi:BPMNLabel>
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Task_XX_S03_di" bpmnElement="Task_XX_S03">
+        <dc:Bounds x="680" y="410" width="160" height="100" />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Event_Timer_SLA_di" bpmnElement="Event_Timer_SLA">
+        <dc:Bounds x="882" y="442" width="36" height="36" />
+        <bpmndi:BPMNLabel><dc:Bounds x="850" y="484" width="100" height="40" /></bpmndi:BPMNLabel>
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Event_End_KhongDat_di" bpmnElement="Event_End_KhongDat">
+        <dc:Bounds x="567" y="512" width="36" height="36" />
+        <bpmndi:BPMNLabel><dc:Bounds x="612" y="517" width="130" height="27" /></bpmndi:BPMNLabel>
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Task_XX_S04_di" bpmnElement="Task_XX_S04">
+        <dc:Bounds x="980" y="590" width="160" height="100" />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Event_End_Dat_di" bpmnElement="Event_End_Dat">
+        <dc:Bounds x="1200" y="622" width="36" height="36" />
+        <bpmndi:BPMNLabel><dc:Bounds x="1170" y="664" width="96" height="27" /></bpmndi:BPMNLabel>
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNEdge id="Flow_1_di" bpmnElement="Flow_1">
+        <di:waypoint x="298" y="160" />
+        <di:waypoint x="410" y="160" />
+        <di:waypoint x="410" y="270" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="Flow_2_di" bpmnElement="Flow_2">
+        <di:waypoint x="490" y="320" />
+        <di:waypoint x="585" y="320" />
+        <di:waypoint x="585" y="435" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="Flow_Co_di" bpmnElement="Flow_Co">
+        <di:waypoint x="610" y="460" />
+        <di:waypoint x="680" y="460" />
+        <bpmndi:BPMNLabel><dc:Bounds x="634" y="440" width="24" height="14" /></bpmndi:BPMNLabel>
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="Flow_Khong_di" bpmnElement="Flow_Khong">
+        <di:waypoint x="585" y="485" />
+        <di:waypoint x="585" y="512" />
+        <bpmndi:BPMNLabel><dc:Bounds x="592" y="490" width="44" height="14" /></bpmndi:BPMNLabel>
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="Flow_4_di" bpmnElement="Flow_4">
+        <di:waypoint x="840" y="460" />
+        <di:waypoint x="882" y="460" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="Flow_5_di" bpmnElement="Flow_5">
+        <di:waypoint x="918" y="460" />
+        <di:waypoint x="1060" y="460" />
+        <di:waypoint x="1060" y="590" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="Flow_6_di" bpmnElement="Flow_6">
+        <di:waypoint x="1140" y="640" />
+        <di:waypoint x="1200" y="640" />
+      </bpmndi:BPMNEdge>
+    </bpmndi:BPMNPlane>
+  </bpmndi:BPMNDiagram>
+</bpmn:definitions>
