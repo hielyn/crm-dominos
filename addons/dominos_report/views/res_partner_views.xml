@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <record id="view_partner_form_dominos_rfm" model="ir.ui.view">
+        <field name="name">res.partner.form.dominos.rfm</field>
+        <field name="model">res.partner</field>
+        <field name="inherit_id" ref="base.view_partner_form"/>
+        <field name="arch" type="xml">
+            <xpath expr="//notebook" position="inside">
+                <page string="RFM" name="dominos_rfm">
+                    <group>
+                        <group string="Phân khúc và Điểm ngũ phân vị (1-5)">
+                            <field name="x_dom_rfm_segment"/>
+                            <field name="x_dom_rfm_r"/>
+                            <field name="x_dom_rfm_f"/>
+                            <field name="x_dom_rfm_m"/>
+                        </group>
+                        <group string="Chỉ số mua hàng gốc">
+                            <field name="x_dom_rfm_recency_days"/>
+                            <field name="x_dom_rfm_order_count"/>
+                            <field name="x_dom_rfm_total_spent"/>
+                            <field name="x_dom_rfm_last_computed"/>
+                        </group>
+                    </group>
+                </page>
+            </xpath>
+        </field>
+    </record>
+
+    <record id="view_res_partner_filter_dominos_rfm" model="ir.ui.view">
+        <field name="name">res.partner.search.dominos.rfm</field>
+        <field name="model">res.partner</field>
+        <field name="inherit_id" ref="base.view_res_partner_filter"/>
+        <field name="arch" type="xml">
+            <xpath expr="//search" position="inside">
+                <separator/>
+                <filter string="RFM: Mới" name="rfm_new" domain="[('x_dom_rfm_segment', '=', 'new')]"/>
+                <filter string="RFM: Thường xuyên" name="rfm_regular" domain="[('x_dom_rfm_segment', '=', 'regular')]"/>
+                <filter string="RFM: VIP" name="rfm_vip" domain="[('x_dom_rfm_segment', '=', 'vip')]"/>
+                <filter string="RFM: At-risk" name="rfm_at_risk" domain="[('x_dom_rfm_segment', '=', 'at_risk')]"/>
+                <filter string="RFM: Không mua lại" name="rfm_lost" domain="[('x_dom_rfm_segment', '=', 'lost')]"/>
+                <group expand="0" string="Group By">
+                    <filter string="Phân khúc RFM" name="group_by_rfm_segment" context="{'group_by': 'x_dom_rfm_segment'}"/>
+                </group>
+            </xpath>
+        </field>
+    </record>
+</odoo>
