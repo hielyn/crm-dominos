@@ -1,0 +1,61 @@
+id,name,ref,phone,email,street,street2,city,country_id,customer_rank
+dom_kh001,Đỗ Quốc Phúc,KH001,0900000001,kh001@example.com,214 Điện Biên Phủ,Quận 7,TP.HCM,Vietnam,1
+dom_kh002,Phạm Mai Trang,KH002,0900000002,kh002@example.com,223 Hoàng Diệu,Gò Vấp,TP.HCM,Vietnam,1
+dom_kh003,Võ Quốc Cường,KH003,0900000003,kh003@example.com,218 Lê Văn Việt,Bình Thạnh,TP.HCM,Vietnam,1
+dom_kh004,Đỗ Quốc Hưng,KH004,0900000004,kh004@example.com,285 Hoàng Diệu,Quận 10,TP.HCM,Vietnam,1
+dom_kh005,Đặng Khánh Thảo,KH005,0900000005,kh005@example.com,288 Hoàng Diệu,Gò Vấp,TP.HCM,Vietnam,1
+dom_kh006,Đỗ Mai Thảo,KH006,0900000006,kh006@example.com,61 Nguyễn Huệ,Quận 7,TP.HCM,Vietnam,1
+dom_kh007,Phạm Mai My,KH007,0900000007,kh007@example.com,29 Nguyễn Huệ,Quận 10,TP.HCM,Vietnam,1
+dom_kh008,Đỗ Quốc Tuấn,KH008,0900000008,kh008@example.com,10 Lê Văn Việt,Quận 10,TP.HCM,Vietnam,1
+dom_kh009,Hoàng Ngọc My,KH009,0900000009,kh009@example.com,264 Nguyễn Huệ,Gò Vấp,TP.HCM,Vietnam,1
+dom_kh010,Phạm Phương Giang,KH010,0900000010,kh010@example.com,166 Cách Mạng Tháng 8,Bình Thạnh,TP.HCM,Vietnam,1
+dom_kh011,Đặng Mai Lan,KH011,0900000011,kh011@example.com,288 Lê Lợi,Thủ Đức,TP.HCM,Vietnam,1
+dom_kh012,Đặng Hữu Khoa,KH012,0900000012,kh012@example.com,172 Hoàng Diệu,Bình Thạnh,TP.HCM,Vietnam,1
+dom_kh013,Đặng Gia Hưng,KH013,0900000013,kh013@example.com,23 Điện Biên Phủ,Quận 10,TP.HCM,Vietnam,1
+dom_kh014,Bùi Khánh Dung,KH014,0900000014,kh014@example.com,15 Cách Mạng Tháng 8,Quận 10,TP.HCM,Vietnam,1
+dom_kh015,Huỳnh Minh Nam,KH015,0900000015,kh015@example.com,92 Điện Biên Phủ,Thủ Đức,TP.HCM,Vietnam,1
+dom_kh016,Phạm Mai Giang,KH016,0900000016,kh016@example.com,159 Cách Mạng Tháng 8,Phú Nhuận,TP.HCM,Vietnam,1
+dom_kh017,Nguyễn Thị My,KH017,0900000017,kh017@example.com,142 Nguyễn Thị Thập,Quận 1,TP.HCM,Vietnam,1
+dom_kh018,Đặng Mai Giang,KH018,0900000018,kh018@example.com,79 Nguyễn Thị Thập,Phú Nhuận,TP.HCM,Vietnam,1
+dom_kh019,Đỗ Văn Phúc,KH019,0900000019,kh019@example.com,272 Lê Lợi,Gò Vấp,TP.HCM,Vietnam,1
+dom_kh020,Đặng Gia Tuấn,KH020,0900000020,kh020@example.com,8 Võ Văn Ngân,Bình Thạnh,TP.HCM,Vietnam,1
+dom_kh021,Đỗ Văn Hưng,KH021,0900000021,kh021@example.com,263 Quang Trung,Quận 3,TP.HCM,Vietnam,1
+dom_kh022,Trần Thị Giang,KH022,0900000022,kh022@example.com,78 Võ Văn Ngân,Quận 1,TP.HCM,Vietnam,1
+dom_kh023,Bùi Hữu Sơn,KH023,0900000023,kh023@example.com,107 Hoàng Diệu,Thủ Đức,TP.HCM,Vietnam,1
+dom_kh024,Nguyễn Đức Phúc,KH024,0900000024,kh024@example.com,193 Cách Mạng Tháng 8,Quận 1,TP.HCM,Vietnam,1
+dom_kh025,Đỗ Phương Linh,KH025,0900000025,kh025@example.com,55 Phạm Văn Đồng,Quận 10,TP.HCM,Vietnam,1
+dom_kh026,Đặng Phương Chi,KH026,0900000026,kh026@example.com,282 Võ Văn Ngân,Quận 7,TP.HCM,Vietnam,1
+dom_kh027,Đỗ Khánh Hà,KH027,0900000027,kh027@example.com,296 Hoàng Diệu,Thủ Đức,TP.HCM,Vietnam,1
+dom_kh028,Trần Gia Khoa,KH028,0900000028,kh028@example.com,1 Phạm Văn Đồng,Gò Vấp,TP.HCM,Vietnam,1
+dom_kh029,Trần Thị Chi,KH029,0900000029,kh029@example.com,65 Lê Lợi,Bình Thạnh,TP.HCM,Vietnam,1
+dom_kh030,Trần Thu Lan,KH030,0900000030,kh030@example.com,16 Lê Lợi,Quận 10,TP.HCM,Vietnam,1
+dom_kh031,Hoàng Mai Chi,KH031,0900000031,kh031@example.com,71 Điện Biên Phủ,Quận 7,TP.HCM,Vietnam,1
+dom_kh032,Trần Ngọc Hà,KH032,0900000032,kh032@example.com,157 Điện Biên Phủ,Thủ Đức,TP.HCM,Vietnam,1
+dom_kh033,Đặng Khánh Lan,KH033,0900000033,kh033@example.com,104 Nguyễn Huệ,Gò Vấp,TP.HCM,Vietnam,1
+dom_kh034,Nguyễn Mai Ngân,KH034,0900000034,kh034@example.com,276 Lê Lợi,Quận 1,TP.HCM,Vietnam,1
+dom_kh035,Hoàng Minh Bình,KH035,0900000035,kh035@example.com,170 Lê Văn Việt,Quận 3,TP.HCM,Vietnam,1
+dom_kh036,Hoàng Thị Thảo,KH036,0900000036,kh036@example.com,296 Quang Trung,Quận 10,TP.HCM,Vietnam,1
+dom_kh037,Bùi Mai Chi,KH037,0900000037,kh037@example.com,19 Nguyễn Thị Thập,Phú Nhuận,TP.HCM,Vietnam,1
+dom_kh038,Đặng Văn Khoa,KH038,0900000038,kh038@example.com,101 Cách Mạng Tháng 8,Quận 3,TP.HCM,Vietnam,1
+dom_kh039,Bùi Thị Dung,KH039,0900000039,kh039@example.com,52 Lê Văn Việt,Bình Thạnh,TP.HCM,Vietnam,1
+dom_kh040,Bùi Mai Chi,KH040,0900000040,kh040@example.com,163 Hoàng Diệu,Phú Nhuận,TP.HCM,Vietnam,1
+dom_kh041,Hoàng Minh Hưng,KH041,0900000041,kh041@example.com,8 Lê Văn Việt,Quận 7,TP.HCM,Vietnam,1
+dom_kh042,Võ Gia Dũng,KH042,0900000042,kh042@example.com,92 Võ Văn Ngân,Gò Vấp,TP.HCM,Vietnam,1
+dom_kh043,Nguyễn Thị Dung,KH043,0900000043,kh043@example.com,271 Quang Trung,Bình Thạnh,TP.HCM,Vietnam,1
+dom_kh044,Đặng Văn Hưng,KH044,0900000044,kh044@example.com,224 Phạm Văn Đồng,Phú Nhuận,TP.HCM,Vietnam,1
+dom_kh045,Lê Thị Hương,KH045,0900000045,kh045@example.com,13 Điện Biên Phủ,Quận 7,TP.HCM,Vietnam,1
+dom_kh046,Nguyễn Thu Hà,KH046,0900000046,kh046@example.com,249 Võ Văn Ngân,Quận 1,TP.HCM,Vietnam,1
+dom_kh047,Đỗ Minh Long,KH047,0900000047,kh047@example.com,117 Phạm Văn Đồng,Phú Nhuận,TP.HCM,Vietnam,1
+dom_kh048,Lê Văn Hưng,KH048,0900000048,kh048@example.com,280 Nguyễn Huệ,Phú Nhuận,TP.HCM,Vietnam,1
+dom_kh049,Bùi Quốc Hải,KH049,0900000049,kh049@example.com,218 Hoàng Diệu,Quận 7,TP.HCM,Vietnam,1
+dom_kh050,Đỗ Gia Long,KH050,0900000050,kh050@example.com,149 Nguyễn Thị Thập,Phú Nhuận,TP.HCM,Vietnam,1
+dom_kh051,Đặng Văn Khoa,KH051,0900000051,kh051@example.com,89 Hoàng Diệu,Thủ Đức,TP.HCM,Vietnam,1
+dom_kh052,Hoàng Quốc Anh,KH052,0900000052,kh052@example.com,78 Võ Văn Ngân,Quận 1,TP.HCM,Vietnam,1
+dom_kh053,Đỗ Hữu Bình,KH053,0900000053,kh053@example.com,262 Lê Lợi,Gò Vấp,TP.HCM,Vietnam,1
+dom_kh054,Võ Mai Ngân,KH054,0900000054,kh054@example.com,114 Cách Mạng Tháng 8,Quận 10,TP.HCM,Vietnam,1
+dom_kh055,Huỳnh Thị Lan,KH055,0900000055,kh055@example.com,42 Phạm Văn Đồng,Gò Vấp,TP.HCM,Vietnam,1
+dom_kh056,Lê Gia Hải,KH056,0900000056,kh056@example.com,196 Cách Mạng Tháng 8,Quận 3,TP.HCM,Vietnam,1
+dom_kh057,Phạm Thị Lan,KH057,0900000057,kh057@example.com,251 Nguyễn Huệ,Phú Nhuận,TP.HCM,Vietnam,1
+dom_kh058,Đặng Phương My,KH058,0900000058,kh058@example.com,17 Quang Trung,Quận 1,TP.HCM,Vietnam,1
+dom_kh059,Võ Phương Trang,KH059,0900000059,kh059@example.com,256 Lê Văn Việt,Phú Nhuận,TP.HCM,Vietnam,1
+dom_kh060,Huỳnh Khánh Lan,KH060,0900000060,kh060@example.com,243 Nguyễn Thị Thập,Thủ Đức,TP.HCM,Vietnam,1

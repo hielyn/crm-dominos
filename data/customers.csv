@@ -1,0 +1,61 @@
+ma_kh,ho_ten,sdt,email,ngay_sinh,dia_chi,so_thich_mon,kenh_chinh,ngay_dang_ky,persona,hang,diem,nhom_mo_phong_de_kiem_tra_RFM
+KH001,Đỗ Quốc Phúc,0900000001,kh001@example.com,1991-10-23,"214 Điện Biên Phủ, Quận 7, TP.HCM",Gà Viên Chiên Giòn,App,2026-05-03,S2 Nhân viên văn phòng,,,Không mua lại
+KH002,Phạm Mai Trang,0900000002,kh002@example.com,2006-10-26,"223 Hoàng Diệu, Gò Vấp, TP.HCM",Pizza Hải Sản Xốt Pesto,Website,2026-10-14,S1 Học sinh - sinh viên,,,Mới
+KH003,Võ Quốc Cường,0900000003,kh003@example.com,2003-11-28,"218 Lê Văn Việt, Bình Thạnh, TP.HCM",Pizza Giăm Bông Dứa,Website,2026-10-22,S1 Học sinh - sinh viên,,,Mới
+KH004,Đỗ Quốc Hưng,0900000004,kh004@example.com,1998-04-04,"285 Hoàng Diệu, Quận 10, TP.HCM",Pizza Bò Xốt BBQ,POS,2026-07-04,S3 Gia đình và nhóm,,,Thường xuyên
+KH005,Đặng Khánh Thảo,0900000005,kh005@example.com,2002-04-01,"288 Hoàng Diệu, Gò Vấp, TP.HCM",Pizza Pepperoni,App,2026-07-26,S1 Học sinh - sinh viên,,,Không mua lại
+KH006,Đỗ Mai Thảo,0900000006,kh006@example.com,1982-12-04,"61 Nguyễn Huệ, Quận 7, TP.HCM",Pizza Phô Mai Hải Sản,App,2026-06-13,S3 Gia đình và nhóm,,,Thường xuyên
+KH007,Phạm Mai My,0900000007,kh007@example.com,1997-05-11,"29 Nguyễn Huệ, Quận 10, TP.HCM",Pizza Bò Xốt BBQ,POS,2026-06-22,S3 Gia đình và nhóm,,,Thường xuyên
+KH008,Đỗ Quốc Tuấn,0900000008,kh008@example.com,2004-12-09,"10 Lê Văn Việt, Quận 10, TP.HCM",Pizza Pepperoni,Website,2026-06-14,S2 Nhân viên văn phòng,,,At-risk
+KH009,Hoàng Ngọc My,0900000009,kh009@example.com,2004-09-05,"264 Nguyễn Huệ, Gò Vấp, TP.HCM",Pizza Bò Xốt BBQ,Website,2026-06-13,S1 Học sinh - sinh viên,,,Thường xuyên
+KH010,Phạm Phương Giang,0900000010,kh010@example.com,2003-03-11,"166 Cách Mạng Tháng 8, Bình Thạnh, TP.HCM",Pizza Giăm Bông Dứa,App,2026-04-01,S1 Học sinh - sinh viên,,,Không mua lại
+KH011,Đặng Mai Lan,0900000011,kh011@example.com,2004-11-09,"288 Lê Lợi, Thủ Đức, TP.HCM",Cánh Gà Nướng BBQ 6 miếng,Website,2026-10-30,S2 Nhân viên văn phòng,,,Mới
+KH012,Đặng Hữu Khoa,0900000012,kh012@example.com,2002-05-18,"172 Hoàng Diệu, Bình Thạnh, TP.HCM",Pizza Phô Mai Truyền Thống,Hotline,2026-07-23,S1 Học sinh - sinh viên,,,At-risk
+KH013,Đặng Gia Hưng,0900000013,kh013@example.com,2004-03-04,"23 Điện Biên Phủ, Quận 10, TP.HCM",Pizza Bò Mexico,Website,2026-06-23,S2 Nhân viên văn phòng,,,VIP
+KH014,Bùi Khánh Dung,0900000014,kh014@example.com,1999-11-04,"15 Cách Mạng Tháng 8, Quận 10, TP.HCM",Pizza Xúc Xích Ý,POS,2026-05-22,S2 Nhân viên văn phòng,,,Không mua lại
+KH015,Huỳnh Minh Nam,0900000015,kh015@example.com,2008-11-28,"92 Điện Biên Phủ, Thủ Đức, TP.HCM",Pizza Gà Nướng Dứa,Website,2026-08-17,S1 Học sinh - sinh viên,,,VIP
+KH016,Phạm Mai Giang,0900000016,kh016@example.com,2007-07-15,"159 Cách Mạng Tháng 8, Phú Nhuận, TP.HCM",Pizza Thập Cẩm Thượng Hạng,POS,2026-07-15,S1 Học sinh - sinh viên,,,VIP
+KH017,Nguyễn Thị My,0900000017,kh017@example.com,1992-09-27,"142 Nguyễn Thị Thập, Quận 1, TP.HCM",Đùi Gà Rán,POS,2026-07-01,S3 Gia đình và nhóm,,,At-risk
+KH018,Đặng Mai Giang,0900000018,kh018@example.com,2006-02-24,"79 Nguyễn Thị Thập, Phú Nhuận, TP.HCM",Cánh Gà Nướng BBQ 6 miếng,POS,2026-06-26,S1 Học sinh - sinh viên,,,At-risk
+KH019,Đỗ Văn Phúc,0900000019,kh019@example.com,2002-06-20,"272 Lê Lợi, Gò Vấp, TP.HCM",Pizza Gà Nướng Dứa,POS,2026-06-18,S1 Học sinh - sinh viên,,,VIP
+KH020,Đặng Gia Tuấn,0900000020,kh020@example.com,1998-07-15,"8 Võ Văn Ngân, Bình Thạnh, TP.HCM",Pizza Gà Nướng Dứa,Website,2026-07-18,S3 Gia đình và nhóm,,,Thường xuyên
+KH021,Đỗ Văn Hưng,0900000021,kh021@example.com,2007-08-21,"263 Quang Trung, Quận 3, TP.HCM",Pizza Tôm Xốt Kem,App,2026-10-29,S1 Học sinh - sinh viên,,,Mới
+KH022,Trần Thị Giang,0900000022,kh022@example.com,1994-05-01,"78 Võ Văn Ngân, Quận 1, TP.HCM",Pizza Bò Mexico,App,2026-07-29,S3 Gia đình và nhóm,,,Thường xuyên
+KH023,Bùi Hữu Sơn,0900000023,kh023@example.com,1985-10-11,"107 Hoàng Diệu, Thủ Đức, TP.HCM",Pizza Tôm Xốt Kem,POS,2026-07-11,S3 Gia đình và nhóm,,,Không mua lại
+KH024,Nguyễn Đức Phúc,0900000024,kh024@example.com,2008-07-22,"193 Cách Mạng Tháng 8, Quận 1, TP.HCM",Pizza Bò Mexico,App,2026-10-20,S1 Học sinh - sinh viên,,,Mới
+KH025,Đỗ Phương Linh,0900000025,kh025@example.com,1999-06-28,"55 Phạm Văn Đồng, Quận 10, TP.HCM",Pizza Gà Nướng Dứa,Hotline,2026-04-27,S2 Nhân viên văn phòng,,,Thường xuyên
+KH026,Đặng Phương Chi,0900000026,kh026@example.com,1994-03-15,"282 Võ Văn Ngân, Quận 7, TP.HCM",Đùi Gà Rán,App,2026-06-15,S2 Nhân viên văn phòng,,,At-risk
+KH027,Đỗ Khánh Hà,0900000027,kh027@example.com,1988-06-25,"296 Hoàng Diệu, Thủ Đức, TP.HCM",Pizza Rau Củ,Website,2026-10-25,S3 Gia đình và nhóm,,,Mới
+KH028,Trần Gia Khoa,0900000028,kh028@example.com,2004-05-10,"1 Phạm Văn Đồng, Gò Vấp, TP.HCM",Cánh Gà Nướng BBQ 6 miếng,Website,2026-06-08,S1 Học sinh - sinh viên,,,Thường xuyên
+KH029,Trần Thị Chi,0900000029,kh029@example.com,1998-09-21,"65 Lê Lợi, Bình Thạnh, TP.HCM",Cánh Gà Nướng BBQ 6 miếng,POS,2026-08-30,S3 Gia đình và nhóm,,,VIP
+KH030,Trần Thu Lan,0900000030,kh030@example.com,1987-06-06,"16 Lê Lợi, Quận 10, TP.HCM",Pizza Hải Sản Xốt Pesto,POS,2026-10-24,S3 Gia đình và nhóm,,,Mới
+KH031,Hoàng Mai Chi,0900000031,kh031@example.com,2004-02-23,"71 Điện Biên Phủ, Quận 7, TP.HCM",Cánh Gà Nướng BBQ 6 miếng,Website,2026-08-11,S2 Nhân viên văn phòng,,,Thường xuyên
+KH032,Trần Ngọc Hà,0900000032,kh032@example.com,1994-12-09,"157 Điện Biên Phủ, Thủ Đức, TP.HCM",Pizza Thập Cẩm Thượng Hạng,App,2026-07-08,S2 Nhân viên văn phòng,,,At-risk
+KH033,Đặng Khánh Lan,0900000033,kh033@example.com,1993-09-01,"104 Nguyễn Huệ, Gò Vấp, TP.HCM",Pizza Bò Mexico,Website,2026-11-05,S2 Nhân viên văn phòng,,,Mới
+KH034,Nguyễn Mai Ngân,0900000034,kh034@example.com,2006-11-17,"276 Lê Lợi, Quận 1, TP.HCM",Pizza Pepperoni,App,2026-07-17,S1 Học sinh - sinh viên,,,VIP
+KH035,Hoàng Minh Bình,0900000035,kh035@example.com,2002-05-25,"170 Lê Văn Việt, Quận 3, TP.HCM",Đùi Gà Rán,Website,2026-05-13,S2 Nhân viên văn phòng,,,At-risk
+KH036,Hoàng Thị Thảo,0900000036,kh036@example.com,1982-09-28,"296 Quang Trung, Quận 10, TP.HCM",Pizza Phô Mai Hải Sản,App,2026-05-04,S3 Gia đình và nhóm,,,Thường xuyên
+KH037,Bùi Mai Chi,0900000037,kh037@example.com,1988-01-12,"19 Nguyễn Thị Thập, Phú Nhuận, TP.HCM",Gà Viên Chiên Giòn,App,2026-06-17,S3 Gia đình và nhóm,,,Không mua lại
+KH038,Đặng Văn Khoa,0900000038,kh038@example.com,1993-01-01,"101 Cách Mạng Tháng 8, Quận 3, TP.HCM",Pizza Giăm Bông Dứa,Website,2026-06-09,S2 Nhân viên văn phòng,,,Không mua lại
+KH039,Bùi Thị Dung,0900000039,kh039@example.com,1996-01-27,"52 Lê Văn Việt, Bình Thạnh, TP.HCM",Pizza Thập Cẩm Thượng Hạng,App,2026-11-01,S3 Gia đình và nhóm,,,Mới
+KH040,Bùi Mai Chi,0900000040,kh040@example.com,2005-08-14,"163 Hoàng Diệu, Phú Nhuận, TP.HCM",Pizza Bò Xốt BBQ,Hotline,2026-10-21,S1 Học sinh - sinh viên,,,Mới
+KH041,Hoàng Minh Hưng,0900000041,kh041@example.com,1987-11-28,"8 Lê Văn Việt, Quận 7, TP.HCM",Pizza Bò Xốt BBQ,Hotline,2026-05-02,S2 Nhân viên văn phòng,,,At-risk
+KH042,Võ Gia Dũng,0900000042,kh042@example.com,1994-04-24,"92 Võ Văn Ngân, Gò Vấp, TP.HCM",Cánh Gà Cay 6 miếng,Hotline,2026-11-06,S2 Nhân viên văn phòng,,,Mới
+KH043,Nguyễn Thị Dung,0900000043,kh043@example.com,1999-11-04,"271 Quang Trung, Bình Thạnh, TP.HCM",Pizza Bò Xốt BBQ,Website,2026-06-25,S2 Nhân viên văn phòng,,,Không mua lại
+KH044,Đặng Văn Hưng,0900000044,kh044@example.com,1990-01-24,"224 Phạm Văn Đồng, Phú Nhuận, TP.HCM",Pizza Thập Cẩm Thượng Hạng,Hotline,2026-08-10,S2 Nhân viên văn phòng,,,At-risk
+KH045,Lê Thị Hương,0900000045,kh045@example.com,2003-02-13,"13 Điện Biên Phủ, Quận 7, TP.HCM",Pizza Gà Nướng Dứa,Website,2026-06-15,S1 Học sinh - sinh viên,,,At-risk
+KH046,Nguyễn Thu Hà,0900000046,kh046@example.com,1999-04-16,"249 Võ Văn Ngân, Quận 1, TP.HCM",Pizza Gà Nướng Dứa,Hotline,2026-05-21,S2 Nhân viên văn phòng,,,Thường xuyên
+KH047,Đỗ Minh Long,0900000047,kh047@example.com,1994-01-11,"117 Phạm Văn Đồng, Phú Nhuận, TP.HCM",Cánh Gà Cay 6 miếng,App,2026-05-07,S3 Gia đình và nhóm,,,Không mua lại
+KH048,Lê Văn Hưng,0900000048,kh048@example.com,1993-06-03,"280 Nguyễn Huệ, Phú Nhuận, TP.HCM",Pizza Rau Củ,App,2026-06-20,S3 Gia đình và nhóm,,,Thường xuyên
+KH049,Bùi Quốc Hải,0900000049,kh049@example.com,1992-01-28,"218 Hoàng Diệu, Quận 7, TP.HCM",Pizza Gà Nướng Dứa,App,2026-11-02,S2 Nhân viên văn phòng,,,Mới
+KH050,Đỗ Gia Long,0900000050,kh050@example.com,1983-05-03,"149 Nguyễn Thị Thập, Phú Nhuận, TP.HCM",Đùi Gà Rán,POS,2026-10-11,S3 Gia đình và nhóm,,,Mới
+KH051,Đặng Văn Khoa,0900000051,kh051@example.com,2003-09-07,"89 Hoàng Diệu, Thủ Đức, TP.HCM",Pizza Phô Mai Truyền Thống,POS,2026-10-24,S1 Học sinh - sinh viên,,,Mới
+KH052,Hoàng Quốc Anh,0900000052,kh052@example.com,2005-12-13,"78 Võ Văn Ngân, Quận 1, TP.HCM",Pizza Hải Sản Xốt Pesto,App,2026-06-27,S1 Học sinh - sinh viên,,,At-risk
+KH053,Đỗ Hữu Bình,0900000053,kh053@example.com,1987-09-23,"262 Lê Lợi, Gò Vấp, TP.HCM",Pizza Phô Mai Truyền Thống,Hotline,2026-05-31,S2 Nhân viên văn phòng,,,At-risk
+KH054,Võ Mai Ngân,0900000054,kh054@example.com,1991-04-03,"114 Cách Mạng Tháng 8, Quận 10, TP.HCM",Đùi Gà Rán,POS,2026-07-04,S3 Gia đình và nhóm,,,Thường xuyên
+KH055,Huỳnh Thị Lan,0900000055,kh055@example.com,1987-05-01,"42 Phạm Văn Đồng, Gò Vấp, TP.HCM",Pizza Phô Mai Hải Sản,POS,2026-07-08,S3 Gia đình và nhóm,,,VIP
+KH056,Lê Gia Hải,0900000056,kh056@example.com,1984-09-02,"196 Cách Mạng Tháng 8, Quận 3, TP.HCM",Cánh Gà Nướng BBQ 6 miếng,POS,2026-07-03,S3 Gia đình và nhóm,,,VIP
+KH057,Phạm Thị Lan,0900000057,kh057@example.com,2006-04-28,"251 Nguyễn Huệ, Phú Nhuận, TP.HCM",Pizza Gà Nướng Dứa,Hotline,2026-06-11,S1 Học sinh - sinh viên,,,Thường xuyên
+KH058,Đặng Phương My,0900000058,kh058@example.com,1988-04-25,"17 Quang Trung, Quận 1, TP.HCM",Pizza Bò Mexico,Website,2026-06-29,S2 Nhân viên văn phòng,,,Không mua lại
+KH059,Võ Phương Trang,0900000059,kh059@example.com,1991-02-04,"256 Lê Văn Việt, Phú Nhuận, TP.HCM",Pizza Phô Mai Hải Sản,App,2026-07-06,S3 Gia đình và nhóm,,,Thường xuyên
+KH060,Huỳnh Khánh Lan,0900000060,kh060@example.com,2007-05-23,"243 Nguyễn Thị Thập, Thủ Đức, TP.HCM",Cánh Gà Nướng BBQ 6 miếng,App,2026-07-17,S1 Học sinh - sinh viên,,,Thường xuyên
